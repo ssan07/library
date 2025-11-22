@@ -17,6 +17,7 @@ export default function LibraryFrontEnd() {
   const [year, setYear] = useState("");
   const [message, setMessage] = useState("");
   const [filter, setFilter] = useState("");
+  const [id, setId] = useState(null);
 
   const filteredBooks=books
   .filter(
@@ -55,37 +56,6 @@ export default function LibraryFrontEnd() {
     fetchBooks();
   }, []);
 
-  const handleGetBook = async (e) => {
-    e.preventDefault();
-    try {
-      const response = await axios.post("http://localhost:8000/books", {
-        title,
-        author,
-        year,
-      });
-      setMessage(response.data?.message ?? "Book added");
-      // refresh list after successful add
-      await fetchBooks();
-
-      setTitle("");
-      setAuthor("");
-      setYear("");
-      setTimeout(() => {
-        setMessage("");
-      }, 2000);
-    } catch (error) {
-      console.error("Add book error:", error);
-      if (error.response) {
-        const errMsg =
-          error.response.data?.error ||
-          error.response.data?.message ||
-          JSON.stringify(error.response.data);
-        setMessage(errMsg);
-      } else {
-        setMessage("Book addition failed");
-      }
-    }
-  };
 
   // delete handler used by row buttons
   const handleDelete = async (id) => {
@@ -124,9 +94,9 @@ export default function LibraryFrontEnd() {
         </div>
       </header>
 
-      <main className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <main className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-6">
         {/* Left: Controls / Add Book Form */}
-        <section className="col-span-1 bg-white p-6 rounded-2xl shadow-sm">
+        {/* <section className="col-span-1 bg-white p-6 rounded-2xl shadow-sm">
           <h2 className="text-lg font-semibold mb-4">Add New Book</h2>
 
           <form onSubmit={handleGetBook} className="space-y-4">
@@ -166,7 +136,7 @@ export default function LibraryFrontEnd() {
               Note: hook up the form submission in React to call your backend.
             </p>
           </form>
-        </section>
+        </section> */}
 
         {/* Right: Book list and search */}
         <section className="lg:col-span-2">
@@ -217,14 +187,12 @@ export default function LibraryFrontEnd() {
                     <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                       Year
                     </th>
-                    <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">
-                      Actions
-                    </th>
+                    
                   </tr>
                 </thead>
                 <tbody className="bg-white divide-y divide-gray-100">
                   {filteredBooks.length > 0 ? (
-                    <Books books={filteredBooks} onDelete={handleDelete} />
+                    <Books books={filteredBooks} onDelete={handleDelete}/>
                   ) : (
                     <tr>
                       <td colSpan="5" className="px-6 py-10 text-center text-sm text-gray-400">

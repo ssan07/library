@@ -1,0 +1,2123 @@
+
+-- UPDATE books SET genre='Classic Fiction' WHERE id=1;
+-- UPDATE books SET genre='Fantasy' WHERE id=2;
+-- UPDATE books SET genre='Fantasy' WHERE id=3;
+-- UPDATE books SET genre='Romance' WHERE id=4;
+-- UPDATE books SET genre='Dystopian' WHERE id=5;
+-- UPDATE books SET genre='Political Satire' WHERE id=6;
+-- UPDATE books SET genre='Coming of Age' WHERE id=7;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=8;
+-- UPDATE books SET genre='Dystopian' WHERE id=9;
+-- UPDATE books SET genre='Dystopian' WHERE id=10;
+-- UPDATE books SET genre='Fantasy' WHERE id=11;
+-- UPDATE books SET genre='Fantasy' WHERE id=12;
+-- UPDATE books SET genre='Fantasy' WHERE id=13;
+-- UPDATE books SET genre='Fantasy' WHERE id=14;
+-- UPDATE books SET genre='Children' WHERE id=15;
+-- UPDATE books SET genre='Children' WHERE id=16;
+-- UPDATE books SET genre='Children' WHERE id=17;
+-- UPDATE books SET genre='Children' WHERE id=18;
+-- UPDATE books SET genre='Children' WHERE id=19;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=20;
+-- UPDATE books SET genre='Dystopian' WHERE id=21;
+-- UPDATE books SET genre='Dystopian' WHERE id=22;
+-- UPDATE books SET genre='Dystopian' WHERE id=23;
+-- UPDATE books SET genre='Dystopian' WHERE id=24;
+-- UPDATE books SET genre='Fantasy' WHERE id=25;
+-- UPDATE books SET genre='Fantasy' WHERE id=26;
+-- UPDATE books SET genre='Fantasy' WHERE id=27;
+-- UPDATE books SET genre='Dystopian' WHERE id=28;
+-- UPDATE books SET genre='Young Adult' WHERE id=29;
+-- UPDATE books SET genre='Children' WHERE id=30;
+-- UPDATE books SET genre='Philosophical Fiction' WHERE id=31;
+-- UPDATE books SET genre='Philosophical Fiction' WHERE id=32;
+-- UPDATE books SET genre='Children' WHERE id=33;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=34;
+-- UPDATE books SET genre='Contemporary Fiction' WHERE id=35;
+-- UPDATE books SET genre='Contemporary Fiction' WHERE id=36;
+-- UPDATE books SET genre='Adventure' WHERE id=37;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=38;
+-- UPDATE books SET genre='Young Adult' WHERE id=39;
+-- UPDATE books SET genre='Children' WHERE id=40;
+-- UPDATE books SET genre='Children' WHERE id=41;
+-- UPDATE books SET genre='Children' WHERE id=42;
+-- UPDATE books SET genre='Children' WHERE id=43;
+-- UPDATE books SET genre='Children' WHERE id=44;
+-- UPDATE books SET genre='Children' WHERE id=45;
+-- UPDATE books SET genre='Children' WHERE id=46;
+-- UPDATE books SET genre='Children' WHERE id=47;
+-- UPDATE books SET genre='Children' WHERE id=48;
+-- UPDATE books SET genre='Children' WHERE id=49;
+-- UPDATE books SET genre='Children' WHERE id=50;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=51;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=52;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=53;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=54;
+-- UPDATE books SET genre='Adventure' WHERE id=55;
+-- UPDATE books SET genre='Adventure' WHERE id=56;
+-- UPDATE books SET genre='Adventure' WHERE id=57;
+-- UPDATE books SET genre='Adventure' WHERE id=58;
+-- UPDATE books SET genre='Horror' WHERE id=59;
+-- UPDATE books SET genre='Horror' WHERE id=60;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=61;
+-- UPDATE books SET genre='Classic Fiction' WHERE id=62;
+-- UPDATE books SET genre='Science Fiction' WHERE id=63;
+-- UPDATE books SET genre='Science Fiction' WHERE id=64;
+-- UPDATE books SET genre='Adventure' WHERE id=65;
+-- UPDATE books SET genre='Science Fiction' WHERE id=66;
+-- UPDATE books SET genre='Science Fiction' WHERE id=67;
+-- UPDATE books SET genre='Science Fiction' WHERE id=68;
+-- UPDATE books SET genre='Children' WHERE id=69;
+-- UPDATE books SET genre='Adventure' WHERE id=70;
+-- UPDATE books SET genre='Biography' WHERE id=71;
+-- UPDATE books SET genre='Biography' WHERE id=72;
+-- UPDATE books SET genre='Biography' WHERE id=73;
+-- UPDATE books SET genre='Memoir' WHERE id=74;
+-- UPDATE books SET genre='Biography' WHERE id=75;
+-- UPDATE books SET genre='Adventure' WHERE id=76;
+-- UPDATE books SET genre='Adventure' WHERE id=77;
+-- UPDATE books SET genre='Biography' WHERE id=78;
+-- UPDATE books SET genre='Biography' WHERE id=79;
+-- UPDATE books SET genre='Biography' WHERE id=80;
+-- UPDATE books SET genre='Science' WHERE id=81;
+-- UPDATE books SET genre='Science' WHERE id=82;
+-- UPDATE books SET genre='Science' WHERE id=83;
+-- UPDATE books SET genre='Science' WHERE id=84;
+-- UPDATE books SET genre='Environmental Science' WHERE id=85;
+-- UPDATE books SET genre='History' WHERE id=86;
+-- UPDATE books SET genre='History' WHERE id=87;
+-- UPDATE books SET genre='History' WHERE id=88;
+-- UPDATE books SET genre='Biography' WHERE id=89;
+-- UPDATE books SET genre='Science' WHERE id=90;
+-- UPDATE books SET genre='Philosophy' WHERE id=91;
+-- UPDATE books SET genre='Philosophy' WHERE id=92;
+-- UPDATE books SET genre='Psychology' WHERE id=93;
+-- UPDATE books SET genre='Psychology' WHERE id=94;
+-- UPDATE books SET genre='Self-Help' WHERE id=95;
+-- UPDATE books SET genre='Self-Help' WHERE id=96;
+-- UPDATE books SET genre='Finance' WHERE id=97;
+-- UPDATE books SET genre='Self-Help' WHERE id=98;
+-- UPDATE books SET genre='Self-Help' WHERE id=99;
+-- UPDATE books SET genre='Self-Help' WHERE id=100;
+-- UPDATE books SET genre='Children' WHERE id=101;
+-- UPDATE books SET genre='Children' WHERE id=102;
+-- UPDATE books SET genre='Children' WHERE id=103;
+-- UPDATE books SET genre='Children' WHERE id=104;
+-- UPDATE books SET genre='Children' WHERE id=105;
+-- UPDATE books SET genre='Children' WHERE id=106;
+-- UPDATE books SET genre='Mystery' WHERE id=107;
+-- UPDATE books SET genre='Mystery' WHERE id=108;
+-- UPDATE books SET genre='Mystery' WHERE id=109;
+-- UPDATE books SET genre='Mystery' WHERE id=110;
+-- UPDATE books SET genre='Adventure' WHERE id=111;
+-- UPDATE books SET genre='Adventure' WHERE id=112;
+-- UPDATE books SET genre='Adventure' WHERE id=113;
+-- UPDATE books SET genre='Adventure' WHERE id=114;
+-- UPDATE books SET genre='Children' WHERE id=115;
+-- UPDATE books SET genre='Science Fiction' WHERE id=116;
+-- UPDATE books SET genre='Adventure' WHERE id=117;
+-- UPDATE books SET genre='Science Fiction' WHERE id=118;
+-- UPDATE books SET genre='Science Fiction' WHERE id=119;
+-- UPDATE books SET genre='Science Fiction' WHERE id=120;
+-- UPDATE books SET genre='Science Fiction' WHERE id=121;
+-- UPDATE books SET genre='Science Fiction' WHERE id=122;
+-- UPDATE books SET genre='Children' WHERE id=123;
+-- UPDATE books SET genre='Children' WHERE id=124;
+-- UPDATE books SET genre='Children' WHERE id=125;
+-- UPDATE books SET genre='Children' WHERE id=126;
+-- UPDATE books SET genre='Children' WHERE id=127;
+-- UPDATE books SET genre='Children' WHERE id=128;
+-- UPDATE books SET genre='Children' WHERE id=129;
+-- UPDATE books SET genre='Mystery' WHERE id=130;
+-- UPDATE books SET genre='Mystery' WHERE id=131;
+-- UPDATE books SET genre='Mystery' WHERE id=132;
+-- UPDATE books SET genre='Mystery' WHERE id=133;
+-- UPDATE books SET genre='Fantasy' WHERE id=134;
+-- UPDATE books SET genre='Fantasy' WHERE id=135;
+-- UPDATE books SET genre='Fantasy' WHERE id=136;
+-- UPDATE books SET genre='Fantasy' WHERE id=137;
+-- UPDATE books SET genre='Fantasy' WHERE id=138;
+-- UPDATE books SET genre='Fantasy' WHERE id=139;
+-- UPDATE books SET genre='Fantasy' WHERE id=140;
+-- UPDATE books SET genre='Adventure' WHERE id=141;
+-- UPDATE books SET genre='Adventure' WHERE id=142;
+-- UPDATE books SET genre='Adventure' WHERE id=143;
+-- UPDATE books SET genre='Drama' WHERE id=144;
+-- UPDATE books SET genre='Children' WHERE id=145;
+-- UPDATE books SET genre='Fantasy' WHERE id=146;
+-- UPDATE books SET genre='Fantasy' WHERE id=147;
+-- UPDATE books SET genre='Fantasy' WHERE id=148;
+-- UPDATE books SET genre='Children' WHERE id=149;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=150;
+-- UPDATE books SET genre='Philosophy' WHERE id=151;
+-- UPDATE books SET genre='Adventure' WHERE id=152;
+-- UPDATE books SET genre='Adventure' WHERE id=153;
+-- UPDATE books SET genre='Adventure' WHERE id=154;
+-- UPDATE books SET genre='Fantasy' WHERE id=155;
+-- UPDATE books SET genre='Children' WHERE id=156;
+-- UPDATE books SET genre='Adventure' WHERE id=157;
+-- UPDATE books SET genre='Adventure' WHERE id=158;
+-- UPDATE books SET genre='Adventure' WHERE id=159;
+-- UPDATE books SET genre='Adventure' WHERE id=160;
+-- UPDATE books SET genre='Religious' WHERE id=161;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=162;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=163;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=164;
+-- UPDATE books SET genre='Romance' WHERE id=165;
+-- UPDATE books SET genre='Romance' WHERE id=166;
+-- UPDATE books SET genre='Romance' WHERE id=167;
+-- UPDATE books SET genre='Romance' WHERE id=168;
+-- UPDATE books SET genre='Romance' WHERE id=169;
+-- UPDATE books SET genre='Classic' WHERE id=170;
+-- UPDATE books SET genre='Classic' WHERE id=171;
+-- UPDATE books SET genre='Classic' WHERE id=172;
+-- UPDATE books SET genre='Classic' WHERE id=173;
+-- UPDATE books SET genre='Classic' WHERE id=174;
+-- UPDATE books SET genre='Classic' WHERE id=175;
+-- UPDATE books SET genre='Classic' WHERE id=176;
+-- UPDATE books SET genre='Classic' WHERE id=177;
+-- UPDATE books SET genre='Adventure' WHERE id=178;
+-- UPDATE books SET genre='Adventure' WHERE id=179;
+-- UPDATE books SET genre='Drama' WHERE id=180;
+-- UPDATE books SET genre='Fantasy' WHERE id=181;
+-- UPDATE books SET genre='Fantasy' WHERE id=182;
+-- UPDATE books SET genre='Fantasy' WHERE id=183;
+-- UPDATE books SET genre='Classic' WHERE id=184;
+-- UPDATE books SET genre='Children' WHERE id=185;
+-- UPDATE books SET genre='Comedy' WHERE id=186;
+-- UPDATE books SET genre='Fantasy' WHERE id=187;
+-- UPDATE books SET genre='Classic' WHERE id=188;
+-- UPDATE books SET genre='Classic' WHERE id=189;
+-- UPDATE books SET genre='Classic' WHERE id=190;
+-- UPDATE books SET genre='Adventure' WHERE id=191;
+-- UPDATE books SET genre='Classic' WHERE id=192;
+-- UPDATE books SET genre='Adventure' WHERE id=193;
+-- UPDATE books SET genre='Adventure' WHERE id=194;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=195;
+-- UPDATE books SET genre='Romance' WHERE id=196;
+-- UPDATE books SET genre='Classic' WHERE id=197;
+-- UPDATE books SET genre='Classic' WHERE id=198;
+-- UPDATE books SET genre='Classic' WHERE id=199;
+-- UPDATE books SET genre='Classic' WHERE id=200;
+-- UPDATE books SET genre='Classic' WHERE id=201;
+-- UPDATE books SET genre='Classic' WHERE id=202;
+-- UPDATE books SET genre='Classic' WHERE id=203;
+-- UPDATE books SET genre='Classic' WHERE id=204;
+-- UPDATE books SET genre='Classic' WHERE id=205;
+-- UPDATE books SET genre='Classic' WHERE id=206;
+-- UPDATE books SET genre='Classic' WHERE id=207;
+-- UPDATE books SET genre='Classic' WHERE id=208;
+-- UPDATE books SET genre='Classic' WHERE id=209;
+-- UPDATE books SET genre='Classic' WHERE id=210;
+-- UPDATE books SET genre='Classic' WHERE id=211;
+-- UPDATE books SET genre='Classic' WHERE id=212;
+-- UPDATE books SET genre='Philosophy' WHERE id=213;
+-- UPDATE books SET genre='Philosophy' WHERE id=214;
+-- UPDATE books SET genre='Philosophy' WHERE id=215;
+-- UPDATE books SET genre='Classic' WHERE id=216;
+-- UPDATE books SET genre='Classic' WHERE id=217;
+-- UPDATE books SET genre='Classic' WHERE id=218;
+-- UPDATE books SET genre='Classic' WHERE id=219;
+-- UPDATE books SET genre='Classic' WHERE id=220;
+-- UPDATE books SET genre='Philosophy' WHERE id=221;
+-- UPDATE books SET genre='Classic' WHERE id=222;
+-- UPDATE books SET genre='Classic' WHERE id=223;
+-- UPDATE books SET genre='Classic' WHERE id=224;
+-- UPDATE books SET genre='Adventure' WHERE id=225;
+-- UPDATE books SET genre='Adventure' WHERE id=226;
+-- UPDATE books SET genre='Adventure' WHERE id=227;
+-- UPDATE books SET genre='Adventure' WHERE id=228;
+-- UPDATE books SET genre='Mythology' WHERE id=229;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=230;
+-- UPDATE books SET genre='Adventure' WHERE id=231;
+-- UPDATE books SET genre='Classic' WHERE id=232;
+-- UPDATE books SET genre='Philosophy' WHERE id=233;
+-- UPDATE books SET genre='Philosophy' WHERE id=234;
+-- UPDATE books SET genre='Philosophy' WHERE id=235;
+-- UPDATE books SET genre='Religious' WHERE id=236;
+-- UPDATE books SET genre='Religious' WHERE id=237;
+-- UPDATE books SET genre='Religious' WHERE id=238;
+-- UPDATE books SET genre='Religious' WHERE id=239;
+-- UPDATE books SET genre='Religious' WHERE id=240;
+-- UPDATE books SET genre='Epic Poetry' WHERE id=241;
+-- UPDATE books SET genre='Epic Poetry' WHERE id=242;
+-- UPDATE books SET genre='Epic Poetry' WHERE id=243;
+-- UPDATE books SET genre='Tragedy' WHERE id=244;
+-- UPDATE books SET genre='Tragedy' WHERE id=245;
+-- UPDATE books SET genre='Tragedy' WHERE id=246;
+-- UPDATE books SET genre='Philosophy' WHERE id=247;
+-- UPDATE books SET genre='Philosophy' WHERE id=248;
+-- UPDATE books SET genre='Philosophy' WHERE id=249;
+-- UPDATE books SET genre='History' WHERE id=250;
+-- UPDATE books SET genre='History' WHERE id=251;
+-- UPDATE books SET genre='Philosophy' WHERE id=252;
+-- UPDATE books SET genre='Epic Poetry' WHERE id=253;
+-- UPDATE books SET genre='Epic Poetry' WHERE id=254;
+-- UPDATE books SET genre='Epic Poetry' WHERE id=255;
+-- UPDATE books SET genre='Epic Poetry' WHERE id=256;
+-- UPDATE books SET genre='Classic' WHERE id=257;
+-- UPDATE books SET genre='Classic' WHERE id=258;
+-- UPDATE books SET genre='Classic' WHERE id=259;
+-- UPDATE books SET genre='Adventure' WHERE id=260;
+-- UPDATE books SET genre='Adventure' WHERE id=261;
+-- UPDATE books SET genre='Classic' WHERE id=262;
+-- UPDATE books SET genre='Satire' WHERE id=263;
+-- UPDATE books SET genre='Philosophy' WHERE id=264;
+-- UPDATE books SET genre='Philosophy' WHERE id=265;
+-- UPDATE books SET genre='Horror' WHERE id=266;
+-- UPDATE books SET genre='Science Fiction' WHERE id=267;
+-- UPDATE books SET genre='Horror' WHERE id=268;
+-- UPDATE books SET genre='Horror' WHERE id=269;
+-- UPDATE books SET genre='Classic' WHERE id=270;
+-- UPDATE books SET genre='Classic' WHERE id=271;
+-- UPDATE books SET genre='Classic' WHERE id=272;
+-- UPDATE books SET genre='Classic' WHERE id=273;
+-- UPDATE books SET genre='Classic' WHERE id=274;
+-- UPDATE books SET genre='Classic' WHERE id=275;
+-- UPDATE books SET genre='Classic' WHERE id=276;
+-- UPDATE books SET genre='Classic' WHERE id=277;
+-- UPDATE books SET genre='Classic' WHERE id=278;
+-- UPDATE books SET genre='Adventure' WHERE id=279;
+-- UPDATE books SET genre='Science Fiction' WHERE id=280;
+-- UPDATE books SET genre='Science Fiction' WHERE id=281;
+-- UPDATE books SET genre='Adventure' WHERE id=282;
+-- UPDATE books SET genre='Science Fiction' WHERE id=283;
+-- UPDATE books SET genre='Science Fiction' WHERE id=284;
+-- UPDATE books SET genre='Science Fiction' WHERE id=285;
+-- UPDATE books SET genre='Science Fiction' WHERE id=286;
+-- UPDATE books SET genre='Science Fiction' WHERE id=287;
+-- UPDATE books SET genre='Science Fiction' WHERE id=288;
+-- UPDATE books SET genre='Adventure' WHERE id=289;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=290;
+-- UPDATE books SET genre='Adventure' WHERE id=291;
+-- UPDATE books SET genre='War' WHERE id=292;
+-- UPDATE books SET genre='Drama' WHERE id=293;
+-- UPDATE books SET genre='Spy Thriller' WHERE id=294;
+-- UPDATE books SET genre='Classic' WHERE id=295;
+-- UPDATE books SET genre='Classic' WHERE id=296;
+-- UPDATE books SET genre='Classic' WHERE id=297;
+-- UPDATE books SET genre='Children' WHERE id=298;
+-- UPDATE books SET genre='Children' WHERE id=299;
+-- UPDATE books SET genre='Classic' WHERE id=300;
+-- UPDATE books SET genre='Fantasy' WHERE id=301;
+-- UPDATE books SET genre='Fantasy' WHERE id=302;
+-- UPDATE books SET genre='Fantasy' WHERE id=303;
+-- UPDATE books SET genre='Fantasy' WHERE id=304;
+-- UPDATE books SET genre='Adventure' WHERE id=305;
+-- UPDATE books SET genre='Adventure' WHERE id=306;
+-- UPDATE books SET genre='Classic' WHERE id=307;
+-- UPDATE books SET genre='Adventure' WHERE id=308;
+-- UPDATE books SET genre='Adventure' WHERE id=309;
+-- UPDATE books SET genre='Children' WHERE id=310;
+-- UPDATE books SET genre='Children' WHERE id=311;
+-- UPDATE books SET genre='Children' WHERE id=312;
+-- UPDATE books SET genre='Children' WHERE id=313;
+-- UPDATE books SET genre='Adventure' WHERE id=314;
+-- UPDATE books SET genre='Adventure' WHERE id=315;
+-- UPDATE books SET genre='Adventure' WHERE id=316;
+-- UPDATE books SET genre='Adventure' WHERE id=317;
+-- UPDATE books SET genre='Science Fiction' WHERE id=318;
+-- UPDATE books SET genre='Adventure' WHERE id=319;
+-- UPDATE books SET genre='Science Fiction' WHERE id=320;
+-- UPDATE books SET genre='Science Fiction' WHERE id=321;
+-- UPDATE books SET genre='Science Fiction' WHERE id=322;
+-- UPDATE books SET genre='Fantasy' WHERE id=323;
+-- UPDATE books SET genre='Children' WHERE id=324;
+-- UPDATE books SET genre='Children' WHERE id=325;
+-- UPDATE books SET genre='Classic' WHERE id=326;
+-- UPDATE books SET genre='Classic' WHERE id=327;
+-- UPDATE books SET genre='Classic' WHERE id=328;
+-- UPDATE books SET genre='Children' WHERE id=329;
+-- UPDATE books SET genre='Children' WHERE id=330;
+-- UPDATE books SET genre='Children' WHERE id=331;
+-- UPDATE books SET genre='Children' WHERE id=332;
+-- UPDATE books SET genre='Children' WHERE id=333;
+-- UPDATE books SET genre='Children' WHERE id=334;
+-- UPDATE books SET genre='Children' WHERE id=335;
+-- UPDATE books SET genre='Children' WHERE id=336;
+-- UPDATE books SET genre='Children' WHERE id=337;
+-- UPDATE books SET genre='Children' WHERE id=338;
+-- UPDATE books SET genre='Fantasy' WHERE id=339;
+-- UPDATE books SET genre='Fantasy' WHERE id=340;
+-- UPDATE books SET genre='Fantasy' WHERE id=341;
+-- UPDATE books SET genre='Fantasy' WHERE id=342;
+-- UPDATE books SET genre='Fantasy' WHERE id=343;
+-- UPDATE books SET genre='Fantasy' WHERE id=344;
+-- UPDATE books SET genre='Fantasy' WHERE id=345;
+-- UPDATE books SET genre='Fantasy' WHERE id=346;
+-- UPDATE books SET genre='Fantasy' WHERE id=347;
+-- UPDATE books SET genre='Adventure' WHERE id=348;
+-- UPDATE books SET genre='Children' WHERE id=349;
+-- UPDATE books SET genre='Children' WHERE id=350;
+-- UPDATE books SET genre='Children' WHERE id=351;
+-- UPDATE books SET genre='Children' WHERE id=352;
+-- UPDATE books SET genre='Children' WHERE id=353;
+-- UPDATE books SET genre='Mystery' WHERE id=354;
+-- UPDATE books SET genre='Mystery' WHERE id=355;
+-- UPDATE books SET genre='Mystery' WHERE id=356;
+-- UPDATE books SET genre='Mystery' WHERE id=357;
+-- UPDATE books SET genre='Mystery' WHERE id=358;
+-- UPDATE books SET genre='Mystery' WHERE id=359;
+-- UPDATE books SET genre='Children' WHERE id=360;
+-- UPDATE books SET genre='Adventure' WHERE id=361;
+-- UPDATE books SET genre='Adventure' WHERE id=362;
+-- UPDATE books SET genre='Adventure' WHERE id=363;
+-- UPDATE books SET genre='Fantasy' WHERE id=364;
+-- UPDATE books SET genre='Fantasy' WHERE id=365;
+-- UPDATE books SET genre='Dystopian' WHERE id=366;
+-- UPDATE books SET genre='Dystopian' WHERE id=367;
+-- UPDATE books SET genre='Dystopian' WHERE id=368;
+-- UPDATE books SET genre='Dystopian' WHERE id=369;
+-- UPDATE books SET genre='Fantasy' WHERE id=370;
+-- UPDATE books SET genre='Adventure' WHERE id=371;
+-- UPDATE books SET genre='Children' WHERE id=372;
+-- UPDATE books SET genre='Children' WHERE id=373;
+-- UPDATE books SET genre='Children' WHERE id=374;
+-- UPDATE books SET genre='Children' WHERE id=375;
+-- UPDATE books SET genre='Fantasy' WHERE id=376;
+-- UPDATE books SET genre='Fantasy' WHERE id=377;
+-- UPDATE books SET genre='Fantasy' WHERE id=378;
+-- UPDATE books SET genre='Fantasy' WHERE id=379;
+-- UPDATE books SET genre='Fantasy' WHERE id=380;
+-- UPDATE books SET genre='Dystopian' WHERE id=381;
+-- UPDATE books SET genre='Dystopian' WHERE id=382;
+-- UPDATE books SET genre='Dystopian' WHERE id=383;
+-- UPDATE books SET genre='Dystopian' WHERE id=384;
+-- UPDATE books SET genre='Dystopian' WHERE id=385;
+-- UPDATE books SET genre='Mystery' WHERE id=386;
+-- UPDATE books SET genre='Mystery' WHERE id=387;
+-- UPDATE books SET genre='Mystery' WHERE id=388;
+-- UPDATE books SET genre='Fantasy' WHERE id=389;
+-- UPDATE books SET genre='Fantasy' WHERE id=390;
+-- UPDATE books SET genre='Fantasy' WHERE id=391;
+-- UPDATE books SET genre='Fantasy' WHERE id=392;
+-- UPDATE books SET genre='Fantasy' WHERE id=393;
+-- UPDATE books SET genre='Fantasy' WHERE id=394;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=395;
+-- UPDATE books SET genre='Children' WHERE id=396;
+-- UPDATE books SET genre='Children' WHERE id=397;
+-- UPDATE books SET genre='Children' WHERE id=398;
+-- UPDATE books SET genre='Dystopian' WHERE id=399;
+-- UPDATE books SET genre='Dystopian' WHERE id=400;
+-- UPDATE books SET genre='Dystopian' WHERE id=401;
+-- UPDATE books SET genre='Dystopian' WHERE id=402;
+-- UPDATE books SET genre='Adventure' WHERE id=403;
+-- UPDATE books SET genre='Adventure' WHERE id=404;
+-- UPDATE books SET genre='Adventure' WHERE id=405;
+-- UPDATE books SET genre='Adventure' WHERE id=406;
+-- UPDATE books SET genre='Adventure' WHERE id=407;
+-- UPDATE books SET genre='Adventure' WHERE id=408;
+-- UPDATE books SET genre='Adventure' WHERE id=409;
+-- UPDATE books SET genre='Children' WHERE id=410;
+-- UPDATE books SET genre='Children' WHERE id=411;
+-- UPDATE books SET genre='Children' WHERE id=412;
+-- UPDATE books SET genre='Children' WHERE id=413;
+-- UPDATE books SET genre='Children' WHERE id=414;
+-- UPDATE books SET genre='Children' WHERE id=415;
+-- UPDATE books SET genre='Children' WHERE id=416;
+-- UPDATE books SET genre='Children' WHERE id=417;
+-- UPDATE books SET genre='Children' WHERE id=418;
+-- UPDATE books SET genre='Fantasy' WHERE id=419;
+-- UPDATE books SET genre='Fantasy' WHERE id=420;
+-- UPDATE books SET genre='Fantasy' WHERE id=421;
+-- UPDATE books SET genre='Fantasy' WHERE id=422;
+-- UPDATE books SET genre='Fantasy' WHERE id=423;
+-- UPDATE books SET genre='Fantasy' WHERE id=424;
+-- UPDATE books SET genre='Fantasy' WHERE id=425;
+-- UPDATE books SET genre='Fantasy' WHERE id=426;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=427;
+-- UPDATE books SET genre='Fantasy' WHERE id=428;
+-- UPDATE books SET genre='Fantasy' WHERE id=429;
+-- UPDATE books SET genre='Children' WHERE id=430;
+-- UPDATE books SET genre='Children' WHERE id=431;
+-- UPDATE books SET genre='Children' WHERE id=432;
+-- UPDATE books SET genre='Mystery' WHERE id=433;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=434;
+-- UPDATE books SET genre='Adventure' WHERE id=435;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=436;
+-- UPDATE books SET genre='Adventure' WHERE id=437;
+-- UPDATE books SET genre='Fantasy' WHERE id=438;
+-- UPDATE books SET genre='Children' WHERE id=439;
+-- UPDATE books SET genre='Children' WHERE id=440;
+-- UPDATE books SET genre='Children' WHERE id=441;
+-- UPDATE books SET genre='Children' WHERE id=442;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=443;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=444;
+-- UPDATE books SET genre='Fantasy' WHERE id=445;
+-- UPDATE books SET genre='Fantasy' WHERE id=446;
+-- UPDATE books SET genre='Fantasy' WHERE id=447;
+-- UPDATE books SET genre='Fantasy' WHERE id=448;
+-- UPDATE books SET genre='Fantasy' WHERE id=449;
+-- UPDATE books SET genre='Fantasy' WHERE id=450;
+-- UPDATE books SET genre='Adventure' WHERE id=451;
+-- UPDATE books SET genre='Children' WHERE id=452;
+-- UPDATE books SET genre='Children' WHERE id=453;
+-- UPDATE books SET genre='Children' WHERE id=454;
+-- UPDATE books SET genre='Children' WHERE id=455;
+-- UPDATE books SET genre='Children' WHERE id=456;
+-- UPDATE books SET genre='Children' WHERE id=457;
+-- UPDATE books SET genre='Children' WHERE id=458;
+-- UPDATE books SET genre='Fantasy' WHERE id=459;
+-- UPDATE books SET genre='Fantasy' WHERE id=460;
+-- UPDATE books SET genre='Fantasy' WHERE id=461;
+-- UPDATE books SET genre='Children' WHERE id=462;
+-- UPDATE books SET genre='Children' WHERE id=463;
+-- UPDATE books SET genre='Children Adventure' WHERE id=464;
+-- UPDATE books SET genre='Children Adventure' WHERE id=465;
+-- UPDATE books SET genre='Children Adventure' WHERE id=466;
+-- UPDATE books SET genre='Children' WHERE id=467;
+-- UPDATE books SET genre='Children' WHERE id=468;
+-- UPDATE books SET genre='Children' WHERE id=469;
+-- UPDATE books SET genre='Children' WHERE id=470;
+-- UPDATE books SET genre='Children' WHERE id=471;
+-- UPDATE books SET genre='Children' WHERE id=472;
+-- UPDATE books SET genre='Children' WHERE id=473;
+-- UPDATE books SET genre='Children' WHERE id=474;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=475;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=476;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=477;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=478;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=479;
+-- UPDATE books SET genre='Children Family' WHERE id=480;
+-- UPDATE books SET genre='Children Family' WHERE id=481;
+-- UPDATE books SET genre='Children Family' WHERE id=482;
+-- UPDATE books SET genre='Children Family' WHERE id=483;
+-- UPDATE books SET genre='Children Family' WHERE id=484;
+-- UPDATE books SET genre='Science Fiction' WHERE id=485;
+-- UPDATE books SET genre='Science Fiction' WHERE id=486;
+-- UPDATE books SET genre='Science Fiction' WHERE id=487;
+-- UPDATE books SET genre='Fantasy' WHERE id=488;
+-- UPDATE books SET genre='Fantasy' WHERE id=489;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=490;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=491;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=492;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=493;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=494;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=495;
+-- UPDATE books SET genre='Fantasy' WHERE id=496;
+-- UPDATE books SET genre='Fantasy' WHERE id=497;
+-- UPDATE books SET genre='Fantasy' WHERE id=498;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=499;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=500;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=501;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=502;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=503;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=504;
+-- UPDATE books SET genre='Zombie Adventure' WHERE id=505;
+-- UPDATE books SET genre='Zombie Adventure' WHERE id=506;
+-- UPDATE books SET genre='Zombie Adventure' WHERE id=507;
+-- UPDATE books SET genre='Zombie Adventure' WHERE id=508;
+-- UPDATE books SET genre='Zombie Adventure' WHERE id=509;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=510;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=511;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=512;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=513;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=514;
+-- UPDATE books SET genre='Fantasy' WHERE id=515;
+-- UPDATE books SET genre='Sci-Fi' WHERE id=516;
+-- UPDATE books SET genre='Fantasy' WHERE id=517;
+-- UPDATE books SET genre='Fantasy' WHERE id=518;
+-- UPDATE books SET genre='Fantasy' WHERE id=519;
+-- UPDATE books SET genre='Fantasy' WHERE id=520;
+-- UPDATE books SET genre='Fantasy' WHERE id=521;
+-- UPDATE books SET genre='Fantasy' WHERE id=522;
+-- UPDATE books SET genre='Adventure' WHERE id=523;
+-- UPDATE books SET genre='Fantasy' WHERE id=524;
+-- UPDATE books SET genre='Fantasy' WHERE id=525;
+-- UPDATE books SET genre='Fantasy' WHERE id=526;
+-- UPDATE books SET genre='Fantasy' WHERE id=527;
+-- UPDATE books SET genre='Fantasy' WHERE id=528;
+-- UPDATE books SET genre='Fantasy' WHERE id=529;
+-- UPDATE books SET genre='Fantasy' WHERE id=530;
+-- UPDATE books SET genre='Fantasy' WHERE id=531;
+-- UPDATE books SET genre='Fantasy' WHERE id=532;
+-- UPDATE books SET genre='Fantasy' WHERE id=533;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=534;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=535;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=536;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=537;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=538;
+-- UPDATE books SET genre='Fantasy' WHERE id=539;
+-- UPDATE books SET genre='Fantasy' WHERE id=540;
+-- UPDATE books SET genre='Fantasy' WHERE id=541;
+-- UPDATE books SET genre='Fantasy' WHERE id=542;
+-- UPDATE books SET genre='Fantasy' WHERE id=543;
+-- UPDATE books SET genre='Fantasy' WHERE id=544;
+-- UPDATE books SET genre='Fantasy' WHERE id=545;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=546;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=547;
+-- UPDATE books SET genre='Children Classic' WHERE id=548;
+-- UPDATE books SET genre='Fantasy' WHERE id=549;
+-- UPDATE books SET genre='Fantasy' WHERE id=550;
+-- UPDATE books SET genre='Mystery Adventure' WHERE id=551;
+-- UPDATE books SET genre='Fantasy/Christmas Retelling' WHERE id=552;
+-- UPDATE books SET genre='Zombie Adventure' WHERE id=553;
+-- UPDATE books SET genre='Fantasy' WHERE id=554;
+-- UPDATE books SET genre='Horror Fantasy' WHERE id=555;
+-- UPDATE books SET genre='Fantasy' WHERE id=556;
+-- UPDATE books SET genre='Contemporary' WHERE id=557;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=558;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=559;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=560;
+-- UPDATE books SET genre='Fantasy' WHERE id=561;
+-- UPDATE books SET genre='Fantasy' WHERE id=562;
+-- UPDATE books SET genre='Fantasy' WHERE id=563;
+-- UPDATE books SET genre='Fantasy' WHERE id=564;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=565;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=566;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=567;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=568;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=569;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=570;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=571;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=572;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=573;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=574;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=575;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=576;
+-- UPDATE books SET genre='Fantasy' WHERE id=577;
+-- UPDATE books SET genre='Fantasy' WHERE id=578;
+-- UPDATE books SET genre='Contemporary' WHERE id=579;
+-- UPDATE books SET genre='Contemporary' WHERE id=580;
+-- UPDATE books SET genre='Adventure/Illustrated' WHERE id=581;
+-- UPDATE books SET genre='Adventure/Illustrated' WHERE id=582;
+-- UPDATE books SET genre='Adventure/Illustrated' WHERE id=583;
+-- UPDATE books SET genre='Dark Fantasy' WHERE id=584;
+-- UPDATE books SET genre='Sci-Fi Fantasy' WHERE id=585;
+-- UPDATE books SET genre='Sci-Fi Fantasy' WHERE id=586;
+-- UPDATE books SET genre='Sci-Fi Fantasy' WHERE id=587;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=588;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=589;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=590;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=591;
+-- UPDATE books SET genre='Fantasy Adventure' WHERE id=592;
+-- UPDATE books SET genre='Children Fantasy' WHERE id=593;
+-- UPDATE books SET genre='Children Fantasy' WHERE id=594;
+-- UPDATE books SET genre='Children Fantasy' WHERE id=595;
+-- UPDATE books SET genre='Adventure Survival' WHERE id=596;
+-- UPDATE books SET genre='Adventure Survival' WHERE id=597;
+-- UPDATE books SET genre='Adventure Survival' WHERE id=598;
+-- UPDATE books SET genre='Adventure Survival' WHERE id=599;
+-- UPDATE books SET genre='Adventure Survival' WHERE id=600;
+-- UPDATE books SET genre='Mystery' WHERE id=601;
+-- UPDATE books SET genre='Mystery' WHERE id=602;
+-- UPDATE books SET genre='Fantasy/Mystery' WHERE id=603;
+-- UPDATE books SET genre='Fantasy Horror' WHERE id=604;
+-- UPDATE books SET genre='Fantasy' WHERE id=605;
+-- UPDATE books SET genre='Fantasy' WHERE id=606;
+-- UPDATE books SET genre='Fantasy' WHERE id=607;
+-- UPDATE books SET genre='Fantasy' WHERE id=608;
+-- UPDATE books SET genre='Fantasy' WHERE id=609;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=610;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=611;
+-- UPDATE books SET genre='Contemporary' WHERE id=612;
+-- UPDATE books SET genre='Contemporary' WHERE id=613;
+-- UPDATE books SET genre='Contemporary' WHERE id=614;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=615;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=616;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=617;
+-- UPDATE books SET genre='Fantasy' WHERE id=618;
+-- UPDATE books SET genre='Fantasy' WHERE id=619;
+-- UPDATE books SET genre='Fantasy' WHERE id=620;
+-- UPDATE books SET genre='Fantasy' WHERE id=621;
+-- UPDATE books SET genre='Fantasy' WHERE id=622;
+-- UPDATE books SET genre='Fantasy' WHERE id=623;
+-- UPDATE books SET genre='Fantasy' WHERE id=624;
+-- UPDATE books SET genre='Fantasy' WHERE id=625;
+-- UPDATE books SET genre='Fantasy' WHERE id=626;
+-- UPDATE books SET genre='Fantasy' WHERE id=627;
+-- UPDATE books SET genre='Fantasy' WHERE id=628;
+
+-- UPDATE books SET genre='Mystery/Adventure' WHERE id=629;
+-- UPDATE books SET genre='Mystery/Adventure' WHERE id=630;
+-- UPDATE books SET genre='Mystery/Adventure' WHERE id=631;
+-- UPDATE books SET genre='Mystery/Adventure' WHERE id=632;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=633;
+-- UPDATE books SET genre='Fantasy' WHERE id=634;
+
+-- UPDATE books SET genre='Fantasy/Fairy Tale' WHERE id=635;
+-- UPDATE books SET genre='Fantasy/Fairy Tale' WHERE id=636;
+-- UPDATE books SET genre='Fantasy' WHERE id=637;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=638;
+-- UPDATE books SET genre='Fantasy' WHERE id=639;
+-- UPDATE books SET genre='Fantasy' WHERE id=640;
+-- UPDATE books SET genre='Fantasy' WHERE id=641;
+-- UPDATE books SET genre='Fantasy' WHERE id=642;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=643;
+-- UPDATE books SET genre='Fantasy' WHERE id=644;
+-- UPDATE books SET genre='Fantasy' WHERE id=645;
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=646;
+-- UPDATE books SET genre='Adventure/Mystery' WHERE id=647;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=648;
+-- UPDATE books SET genre='Fantasy' WHERE id=649;
+-- UPDATE books SET genre='Fantasy' WHERE id=650;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=651;
+-- UPDATE books SET genre='Fantasy' WHERE id=652;
+-- UPDATE books SET genre='Fantasy' WHERE id=653;
+-- UPDATE books SET genre='Fantasy' WHERE id=654;
+
+-- UPDATE books SET genre='Adventure/Classic' WHERE id=655;
+-- UPDATE books SET genre='Adventure/Classic' WHERE id=656;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=657;
+
+-- UPDATE books SET genre='Sci-Fi/Adventure' WHERE id=658;
+-- UPDATE books SET genre='Adventure' WHERE id=659;
+-- UPDATE books SET genre='Sci-Fi/Adventure' WHERE id=660;
+-- UPDATE books SET genre='Sci-Fi/Adventure' WHERE id=661;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=662;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=663;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=664;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=665;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=666;
+
+-- UPDATE books SET genre='Classic/Coming-of-Age' WHERE id=667;
+-- UPDATE books SET genre='Classic' WHERE id=668;
+-- UPDATE books SET genre='Classic' WHERE id=669;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=670;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=671;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=672;
+-- UPDATE books SET genre='Picture Book' WHERE id=673;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=674;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=675;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=676;
+
+-- UPDATE books SET genre='Classic/Coming-of-Age' WHERE id=677;
+-- UPDATE books SET genre='Classic' WHERE id=678;
+-- UPDATE books SET genre='Classic' WHERE id=679;
+
+-- UPDATE books SET genre='Fantasy/Children''s' WHERE id=680;
+-- UPDATE books SET genre='Fantasy/Children''s' WHERE id=681;
+-- UPDATE books SET genre='Fantasy/Children''s' WHERE id=682;
+
+-- UPDATE books SET genre='Adventure/Children''s' WHERE id=683;
+-- UPDATE books SET genre='Children''s Stories' WHERE id=684;
+
+-- UPDATE books SET genre='Classic/Animal Fiction' WHERE id=685;
+-- UPDATE books SET genre='Adventure' WHERE id=686;
+-- UPDATE books SET genre='Adventure' WHERE id=687;
+-- UPDATE books SET genre='Fantasy/Children''s' WHERE id=688;
+
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=689;
+-- UPDATE books SET genre='Children''s' WHERE id=690;
+
+-- UPDATE books SET genre='Adventure/Survival' WHERE id=691;
+-- UPDATE books SET genre='Adventure/Survival' WHERE id=692;
+
+-- UPDATE books SET genre='Mystery/Children''s' WHERE id=693;
+-- UPDATE books SET genre='Mystery' WHERE id=694;
+-- UPDATE books SET genre='Mystery' WHERE id=695;
+-- UPDATE books SET genre='Mystery' WHERE id=696;
+-- UPDATE books SET genre='Mystery' WHERE id=697;
+
+-- UPDATE books SET genre='Adventure/Animal Fiction' WHERE id=698;
+-- UPDATE books SET genre='Adventure/Animal Fiction' WHERE id=699;
+
+-- UPDATE books SET genre='Picture Book' WHERE id=700;
+
+-- UPDATE books SET genre='Picture Book' WHERE id=701;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=702;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=703;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=704;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=705;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=706;
+
+-- UPDATE books SET genre='Dark Comedy/Adventure' WHERE id=707;
+-- UPDATE books SET genre='Dark Comedy/Adventure' WHERE id=708;
+-- UPDATE books SET genre='Dark Comedy/Adventure' WHERE id=709;
+-- UPDATE books SET genre='Dark Comedy/Adventure' WHERE id=710;
+-- UPDATE books SET genre='Dark Comedy/Adventure' WHERE id=711;
+-- UPDATE books SET genre='Dark Comedy/Adventure' WHERE id=712;
+-- UPDATE books SET genre='Dark Comedy/Adventure' WHERE id=713;
+
+-- UPDATE books SET genre='Fantasy/Horror' WHERE id=714;
+-- UPDATE books SET genre='Fantasy/Horror' WHERE id=715;
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=716;
+-- UPDATE books SET genre='Fantasy/Norse Mythology' WHERE id=717;
+
+-- UPDATE books SET genre='Young Adult' WHERE id=718;
+-- UPDATE books SET genre='Young Adult' WHERE id=719;
+-- UPDATE books SET genre='Young Adult' WHERE id=720;
+-- UPDATE books SET genre='Young Adult' WHERE id=721;
+
+-- UPDATE books SET genre='Animal Fiction' WHERE id=722;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=723;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=724;
+
+-- UPDATE books SET genre='Children''s Historical' WHERE id=725;
+-- UPDATE books SET genre='Children''s Historical' WHERE id=726;
+-- UPDATE books SET genre='Children''s Historical' WHERE id=727;
+
+-- UPDATE books SET genre='Children''s' WHERE id=728;
+-- UPDATE books SET genre='Children''s' WHERE id=729;
+-- UPDATE books SET genre='Children''s' WHERE id=730;
+
+-- UPDATE books SET genre='Humor/Diary' WHERE id=731;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=732;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=733;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=734;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=735;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=736;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=737;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=738;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=739;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=740;
+-- UPDATE books SET genre='Humor/Diary' WHERE id=741;
+
+-- UPDATE books SET genre='Graphic Novel/Memoir' WHERE id=742;
+-- UPDATE books SET genre='Graphic Novel/Memoir' WHERE id=743;
+-- UPDATE books SET genre='Graphic Novel/Memoir' WHERE id=744;
+-- UPDATE books SET genre='Graphic Novel/Memoir' WHERE id=745;
+-- UPDATE books SET genre='Graphic Novel/Memoir' WHERE id=746;
+
+-- UPDATE books SET genre='Graphic Novel' WHERE id=747;
+-- UPDATE books SET genre='Graphic Novel' WHERE id=748;
+-- UPDATE books SET genre='Graphic Novel' WHERE id=749;
+-- UPDATE books SET genre='Graphic Novel' WHERE id=750;
+
+-- UPDATE books SET genre='Fantasy/Graphic Novel' WHERE id=751;
+-- UPDATE books SET genre='Fantasy/Graphic Novel' WHERE id=752;
+-- UPDATE books SET genre='Fantasy/Graphic Novel' WHERE id=753;
+-- UPDATE books SET genre='Fantasy/Graphic Novel' WHERE id=754;
+-- UPDATE books SET genre='Fantasy/Graphic Novel' WHERE id=755;
+-- UPDATE books SET genre='Fantasy/Graphic Novel' WHERE id=756;
+-- UPDATE books SET genre='Fantasy/Graphic Novel' WHERE id=757;
+
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=758;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=759;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=760;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=761;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=762;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=763;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=764;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=765;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=766;
+-- UPDATE books SET genre='Historical Fiction/Survival' WHERE id=767;
+
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=768;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=769;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=770;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=771;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=772;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=773;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=774;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=775;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=776;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=777;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=778;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=779;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=780;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=781;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=782;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=783;
+
+-- UPDATE books SET genre='Adventure/Historical' WHERE id=784;
+-- UPDATE books SET genre='Adventure/Historical' WHERE id=785;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=786;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=787;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=788;
+
+-- UPDATE books SET genre='Dystopian' WHERE id=789;
+-- UPDATE books SET genre='Dystopian' WHERE id=790;
+-- UPDATE books SET genre='Dystopian' WHERE id=791;
+-- UPDATE books SET genre='Dystopian' WHERE id=792;
+
+-- UPDATE books SET genre='Eco Adventure' WHERE id=793;
+-- UPDATE books SET genre='Eco Adventure' WHERE id=794;
+-- UPDATE books SET genre='Eco Adventure' WHERE id=795;
+-- UPDATE books SET genre='Eco Adventure' WHERE id=796;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=797;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=798;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=799;
+
+-- UPDATE books SET genre='Children''s Adventure' WHERE id=800;
+-- UPDATE books SET genre='Children''s Adventure' WHERE id=801;
+-- UPDATE books SET genre='Children''s Adventure' WHERE id=802;
+
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=803;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=804;
+
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=805;
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=806;
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=807;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=808;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=809;
+
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=810;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=811;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=812;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=813;
+
+-- UPDATE books SET genre='Adventure' WHERE id=814;
+-- UPDATE books SET genre='Adventure' WHERE id=815;
+-- UPDATE books SET genre='Fantasy' WHERE id=816;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=817;
+
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=818;
+-- UPDATE books SET genre='Children''s Mystery' WHERE id=819;
+-- UPDATE books SET genre='Children''s Fantasy' WHERE id=820;
+
+-- UPDATE books SET genre='Children''s Mystery' WHERE id=821;
+
+-- UPDATE books SET genre='Adventure Classic' WHERE id=822;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=823;
+-- UPDATE books SET genre='Fantasy' WHERE id=824;
+-- UPDATE books SET genre='Fantasy' WHERE id=825;
+
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=826;
+-- UPDATE books SET genre='Adventure/Mystery' WHERE id=827;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=828;
+-- UPDATE books SET genre='Animal Fiction' WHERE id=829;
+-- UPDATE books SET genre='Fantasy/Children''s' WHERE id=830;
+
+-- UPDATE books SET genre='Adventure' WHERE id=831;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=832;
+
+-- UPDATE books SET genre='Animal Fiction' WHERE id=833;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=834;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=835;
+
+-- UPDATE books SET genre='Fantasy/Magical Realism' WHERE id=836;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=837;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=838;
+
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=839;
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=840;
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=841;
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=842;
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=843;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=844;
+-- UPDATE books SET genre='Fantasy' WHERE id=845;
+-- UPDATE books SET genre='Fantasy' WHERE id=846;
+-- UPDATE books SET genre='Fantasy' WHERE id=847;
+-- UPDATE books SET genre='Fantasy' WHERE id=848;
+-- UPDATE books SET genre='Fantasy' WHERE id=849;
+-- UPDATE books SET genre='Fantasy' WHERE id=850;
+
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=851;
+
+-- UPDATE books SET genre='Fantasy/Arthurian' WHERE id=852;
+-- UPDATE books SET genre='Fantasy/Arthurian' WHERE id=853;
+
+-- UPDATE books SET genre='Satire' WHERE id=854;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=855;
+
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=856;
+
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=857;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=858;
+-- UPDATE books SET genre='Horror/Fantasy' WHERE id=859;
+-- UPDATE books SET genre='Fantasy' WHERE id=860;
+
+-- UPDATE books SET genre='Horror/Folklore' WHERE id=861;
+
+-- UPDATE books SET genre='Mystery/Adventure' WHERE id=862;
+
+-- UPDATE books SET genre='Adventure' WHERE id=863;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=864;
+
+-- UPDATE books SET genre='Sci-Fi' WHERE id=865;
+-- UPDATE books SET genre='Sci-Fi' WHERE id=866;
+-- UPDATE books SET genre='Sci-Fi' WHERE id=867;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=868;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=869;
+
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=870;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=871;
+
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=872;
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=873;
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=874;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=875;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=876;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=877;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=878;
+-- UPDATE books SET genre='Children''s Classic' WHERE id=879;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=880;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=881;
+
+-- UPDATE books SET genre='Adventure' WHERE id=882;
+-- UPDATE books SET genre='Adventure' WHERE id=883;
+-- UPDATE books SET genre='Adventure' WHERE id=884;
+
+-- UPDATE books SET genre='Fantasy/Adventure' WHERE id=885;
+
+-- UPDATE books SET genre='Historical Fiction' WHERE id=886;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=887;
+-- UPDATE books SET genre='Historical Fiction' WHERE id=888;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=889;
+
+-- UPDATE books SET genre='Children''s Fantasy' WHERE id=890;
+
+-- UPDATE books SET genre='Children''s Classic' WHERE id=891;
+
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=892;
+-- UPDATE books SET genre='Children''s Fiction' WHERE id=893;
+
+-- UPDATE books SET genre='Children''s Adventure' WHERE id=894;
+-- UPDATE books SET genre='Children''s Adventure' WHERE id=895;
+-- UPDATE books SET genre='Children''s Adventure' WHERE id=896;
+
+-- UPDATE books SET genre='Fantasy/Science Fiction' WHERE id=897;
+-- UPDATE books SET genre='Fantasy/Science Fiction' WHERE id=898;
+-- UPDATE books SET genre='Fantasy/Science Fiction' WHERE id=899;
+-- UPDATE books SET genre='Fantasy/Science Fiction' WHERE id=900;
+-- UPDATE books SET genre='Fantasy/Science Fiction' WHERE id=901;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=902;
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=903;
+
+-- UPDATE books SET genre='Fantasy' WHERE id=904;
+-- UPDATE books SET genre='Fantasy' WHERE id=905;
+-- UPDATE books SET genre='Fantasy' WHERE id=906;
+-- UPDATE books SET genre='Fantasy' WHERE id=907;
+-- UPDATE books SET genre='Fantasy' WHERE id=908;
+-- UPDATE books SET genre='Fantasy' WHERE id=909;
+-- UPDATE books SET genre='Fantasy' WHERE id=910;
+-- UPDATE books SET genre='Fantasy' WHERE id=911;
+-- UPDATE books SET genre='Fantasy' WHERE id=912;
+
+-- UPDATE books SET genre='Humor' WHERE id=913;
+-- UPDATE books SET genre='Humor' WHERE id=914;
+-- UPDATE books SET genre='Humor' WHERE id=915;
+-- UPDATE books SET genre='Humor' WHERE id=916;
+-- UPDATE books SET genre='Humor' WHERE id=917;
+
+-- UPDATE books SET genre='Realistic Fiction' WHERE id=918;
+-- UPDATE books
+-- SET genre = CASE
+--     -- Andrew Clements (Middle Grade / School stories)
+--     WHEN id IN (919, 920, 921, 922, 923) THEN 'Middle Grade'
+
+--     -- Rick Riordan – Kane Chronicles (Fantasy / Mythology)
+--     WHEN id IN (924, 925, 926) THEN 'Fantasy'
+
+--     -- The Land of Stories – Chris Colfer (Fantasy)
+--     WHEN id IN (927, 928, 929, 930, 931, 932) THEN 'Fantasy'
+
+--     -- Redwall Series – Brian Jacques (Fantasy)
+--     WHEN id IN (933, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945) THEN 'Fantasy'
+
+--     -- Beatrix Potter (Children)
+--     WHEN id BETWEEN 946 AND 960 THEN 'Children'
+
+--     -- The Penderwicks – Jeanne Birdsall (Middle Grade)
+--     WHEN id IN (961, 962, 963, 964, 965) THEN 'Middle Grade'
+
+--     -- Peter Brown – Wild Robot (Science Fiction / Middle Grade)
+--     WHEN id IN (966, 967) THEN 'Science Fiction'
+
+--     -- Eric Carle (Picture Books / Children)
+--     WHEN id IN (968, 969) THEN 'Children'
+
+--     -- Roald Dahl (Children / Fantasy)
+--     WHEN id IN (970, 971, 972, 973, 974, 975) THEN 'Children'
+
+--     -- Chronicles of Narnia – C.S. Lewis (Fantasy)
+--     WHEN id BETWEEN 976 AND 982 THEN 'Fantasy'
+
+--     -- Mr. Popper’s Penguins (Children)
+--     WHEN id = 983 THEN 'Children'
+
+--     -- The Borrowers series – Mary Norton (Children / Fantasy)
+--     WHEN id IN (984, 985, 986, 987, 988) THEN 'Children'
+
+--     -- Harriet the Spy (Children)
+--     WHEN id = 989 THEN 'Children'
+
+--     -- E.L. Konigsburg (Middle Grade)
+--     WHEN id IN (990, 991) THEN 'Middle Grade'
+
+--     -- Zilpha Keatley Snyder (Middle Grade / Mystery)
+--     WHEN id IN (992, 993, 994) THEN 'Middle Grade'
+
+--     -- Tolkien – LOTR, Hobbit, Silmarillion (Fantasy)
+--     WHEN id IN (995, 996, 997, 998, 999, 1000, 1002, 1003) THEN 'Fantasy'
+
+--     -- To Kill a Mockingbird (Classic)
+--     WHEN id = 1001 THEN 'Classic'
+
+--     -- Pride and Prejudice (Classic)
+--     WHEN id = 1004 THEN 'Classic'
+
+--     -- 1984 (Dystopian / Classic)
+--     WHEN id = 1005 THEN 'Dystopian'
+-- END
+-- WHERE id BETWEEN 919 AND 1005;
+
+
+-- use librarydb;
+select * from books;
+
+
+
+
+
+
+
+
+
+
+-- INSERT INTO books ( title, author, year) VALUES ( 'To Kill a Mockingbird', 'Harper Lee', 1960);
+-- INSERT INTO books ( title, author, year) VALUES ( 'The Hobbit', 'J.R.R. Tolkien', 1937);
+--  INSERT INTO books ( title, author, year) VALUES ( 'The Lord of the Rings', 'J.R.R. Tolkien', 1954);
+-- INSERT INTO books ( title, author, year) VALUES ( 'Pride and Prejudice', 'Jane Austen', 1813);
+-- INSERT INTO books ( title, author, year) VALUES ( '1984', 'George Orwell', 1949);
+-- INSERT INTO books (id, title, author, year) VALUES (6, 'Animal Farm', 'George Orwell', 1945);
+-- INSERT INTO books (id, title, author, year) VALUES (7, 'The Catcher in the Rye', 'J.D. Salinger', 1951);
+-- INSERT INTO books (id, title, author, year) VALUES (8, 'The Great Gatsby', 'F. Scott Fitzgerald', 1925);
+-- INSERT INTO books (id, title, author, year) VALUES (9, 'Fahrenheit 451', 'Ray Bradbury', 1953);
+-- INSERT INTO books (id, title, author, year) VALUES (10, 'Brave New World', 'Aldous Huxley', 1932);
+
+-- INSERT INTO books (id, title, author, year) VALUES (11, 'The Chronicles of Narnia', 'C.S. Lewis', 1950);
+-- INSERT INTO books (id, title, author, year) VALUES (12, 'Harry Potter and the Sorcerer''s Stone', 'J.K. Rowling', 1997);
+-- INSERT INTO books (id, title, author, year) VALUES (13, 'Harry Potter and the Chamber of Secrets', 'J.K. Rowling', 1998);
+-- INSERT INTO books (id, title, author, year) VALUES (14, 'Harry Potter and the Prisoner of Azkaban', 'J.K. Rowling', 1999);
+-- INSERT INTO books (id, title, author, year) VALUES (15, 'Charlotte''s Web', 'E.B. White', 1952);
+-- INSERT INTO books (id, title, author, year) VALUES (16, 'Matilda', 'Roald Dahl', 1988);
+-- INSERT INTO books (id, title, author, year) VALUES (17, 'The BFG', 'Roald Dahl', 1982);
+-- INSERT INTO books (id, title, author, year) VALUES (18, 'The Secret Garden', 'Frances Hodgson Burnett', 1911);
+-- INSERT INTO books (id, title, author, year) VALUES (19, 'Anne of Green Gables', 'L.M. Montgomery', 1908);
+-- INSERT INTO books (id, title, author, year) VALUES (20, 'Little Women', 'Louisa May Alcott', 1868);
+
+-- INSERT INTO books (id, title, author, year) VALUES (21, 'The Giver', 'Lois Lowry', 1993);
+-- INSERT INTO books (id, title, author, year) VALUES (22, 'The Hunger Games', 'Suzanne Collins', 2008);
+-- INSERT INTO books (id, title, author, year) VALUES (23, 'Catching Fire', 'Suzanne Collins', 2009);
+-- INSERT INTO books (id, title, author, year) VALUES (24, 'Mockingjay', 'Suzanne Collins', 2010);
+-- INSERT INTO books (id, title, author, year) VALUES (25, 'Percy Jackson and the Lightning Thief', 'Rick Riordan', 2005);
+-- INSERT INTO books (id, title, author, year) VALUES (26, 'Percy Jackson and the Sea of Monsters', 'Rick Riordan', 2006);
+-- INSERT INTO books (id, title, author, year) VALUES (27, 'Percy Jackson and the Titan''s Curse', 'Rick Riordan', 2007);
+-- INSERT INTO books (id, title, author, year) VALUES (28, 'The Maze Runner', 'James Dashner', 2009);
+-- INSERT INTO books (id, title, author, year) VALUES (29, 'The Fault in Our Stars', 'John Green', 2012);
+-- INSERT INTO books (id, title, author, year) VALUES (30, 'Wonder', 'R.J. Palacio', 2012);
+
+-- INSERT INTO books (id, title, author, year) VALUES (31, 'The Alchemist', 'Paulo Coelho', 1988);
+-- INSERT INTO books (id, title, author, year) VALUES (32, 'Siddhartha', 'Hermann Hesse', 1922);
+-- INSERT INTO books (id, title, author, year) VALUES (33, 'The Little Prince', 'Antoine de Saint-Exupéry', 1943);
+-- INSERT INTO books (id, title, author, year) VALUES (34, 'The Old Man and the Sea', 'Ernest Hemingway', 1952);
+-- INSERT INTO books (id, title, author, year) VALUES (35, 'The Kite Runner', 'Khaled Hosseini', 2003);
+-- INSERT INTO books (id, title, author, year) VALUES (36, 'A Thousand Splendid Suns', 'Khaled Hosseini', 2007);
+-- INSERT INTO books (id, title, author, year) VALUES (37, 'Life of Pi', 'Yann Martel', 2001);
+-- INSERT INTO books (id, title, author, year) VALUES (38, 'The Book Thief', 'Markus Zusak', 2005);
+-- INSERT INTO books (id, title, author, year) VALUES (39, 'The Outsiders', 'S.E. Hinton', 1967);
+-- INSERT INTO books (id, title, author, year) VALUES (40, 'Holes', 'Louis Sachar', 1998);
+
+-- INSERT INTO books (id, title, author, year) VALUES (41, 'The Wind in the Willows', 'Kenneth Grahame', 1908);
+-- INSERT INTO books (id, title, author, year) VALUES (42, 'The Tale of Peter Rabbit', 'Beatrix Potter', 1902);
+-- INSERT INTO books (id, title, author, year) VALUES (43, 'The Velveteen Rabbit', 'Margery Williams', 1922);
+-- INSERT INTO books (id, title, author, year) VALUES (44, 'Where the Wild Things Are', 'Maurice Sendak', 1963);
+-- INSERT INTO books (id, title, author, year) VALUES (45, 'Goodnight Moon', 'Margaret Wise Brown', 1947);
+-- INSERT INTO books (id, title, author, year) VALUES (46, 'Winnie-the-Pooh', 'A.A. Milne', 1926);
+-- INSERT INTO books (id, title, author, year) VALUES (47, 'The Giving Tree', 'Shel Silverstein', 1964);
+-- INSERT INTO books (id, title, author, year) VALUES (48, 'James and the Giant Peach', 'Roald Dahl', 1961);
+-- INSERT INTO books (id, title, author, year) VALUES (49, 'The Lorax', 'Dr. Seuss', 1971);
+-- INSERT INTO books (id, title, author, year) VALUES (50, 'The Cat in the Hat', 'Dr. Seuss', 1957);
+
+-- INSERT INTO books (id, title, author, year) VALUES (51, 'The Grapes of Wrath', 'John Steinbeck', 1939);
+-- INSERT INTO books (id, title, author, year) VALUES (52, 'Of Mice and Men', 'John Steinbeck', 1937);
+-- INSERT INTO books (id, title, author, year) VALUES (53, 'The Pearl', 'John Steinbeck', 1947);
+-- INSERT INTO books (id, title, author, year) VALUES (54, 'East of Eden', 'John Steinbeck', 1952);
+-- INSERT INTO books (id, title, author, year) VALUES (55, 'The Call of the Wild', 'Jack London', 1903);
+-- INSERT INTO books (id, title, author, year) VALUES (56, 'White Fang', 'Jack London', 1906);
+-- INSERT INTO books (id, title, author, year) VALUES (57, 'Treasure Island', 'Robert Louis Stevenson', 1883);
+-- INSERT INTO books (id, title, author, year) VALUES (58, 'Kidnapped', 'Robert Louis Stevenson', 1886);
+-- INSERT INTO books (id, title, author, year) VALUES (59, 'Dracula', 'Bram Stoker', 1897);
+-- INSERT INTO books (id, title, author, year) VALUES (60, 'Frankenstein', 'Mary Shelley', 1818);
+
+-- INSERT INTO books (id, title, author, year) VALUES (61, 'The Adventures of Tom Sawyer', 'Mark Twain', 1876);
+-- INSERT INTO books (id, title, author, year) VALUES (62, 'Adventures of Huckleberry Finn', 'Mark Twain', 1884);
+-- INSERT INTO books (id, title, author, year) VALUES (63, 'Twenty Thousand Leagues Under the Sea', 'Jules Verne', 1870);
+-- INSERT INTO books (id, title, author, year) VALUES (64, 'Journey to the Center of the Earth', 'Jules Verne', 1864);
+-- INSERT INTO books (id, title, author, year) VALUES (65, 'Around the World in Eighty Days', 'Jules Verne', 1873);
+-- INSERT INTO books (id, title, author, year) VALUES (66, 'The Time Machine', 'H.G. Wells', 1895);
+-- INSERT INTO books (id, title, author, year) VALUES (67, 'The War of the Worlds', 'H.G. Wells', 1898);
+-- INSERT INTO books (id, title, author, year) VALUES (68, 'The Invisible Man', 'H.G. Wells', 1897);
+-- INSERT INTO books (id, title, author, year) VALUES (69, 'The Jungle Book', 'Rudyard Kipling', 1894);
+-- INSERT INTO books (id, title, author, year) VALUES (70, 'Kim', 'Rudyard Kipling', 1901);
+
+-- INSERT INTO books (id, title, author, year) VALUES (71, 'The Diary of a Young Girl', 'Anne Frank', 1947);
+-- INSERT INTO books (id, title, author, year) VALUES (72, 'I Am Malala', 'Malala Yousafzai', 2013);
+-- INSERT INTO books (id, title, author, year) VALUES (73, 'Becoming', 'Michelle Obama', 2018);
+-- INSERT INTO books (id, title, author, year) VALUES (74, 'Educated', 'Tara Westover', 2018);
+-- INSERT INTO books (id, title, author, year) VALUES (75, 'Unbroken', 'Laura Hillenbrand', 2010);
+-- INSERT INTO books (id, title, author, year) VALUES (76, 'Into the Wild', 'Jon Krakauer', 1996);
+-- INSERT INTO books (id, title, author, year) VALUES (77, 'Into Thin Air', 'Jon Krakauer', 1997);
+-- INSERT INTO books (id, title, author, year) VALUES (78, 'The Wright Brothers', 'David McCullough', 2015);
+-- INSERT INTO books (id, title, author, year) VALUES (79, 'Steve Jobs', 'Walter Isaacson', 2011);
+-- INSERT INTO books (id, title, author, year) VALUES (80, 'Elon Musk', 'Ashlee Vance', 2015);
+
+-- INSERT INTO books (id, title, author, year) VALUES (81, 'A Brief History of Time', 'Stephen Hawking', 1988);
+-- INSERT INTO books (id, title, author, year) VALUES (82, 'Cosmos', 'Carl Sagan', 1980);
+-- INSERT INTO books (id, title, author, year) VALUES (83, 'Astrophysics for People in a Hurry', 'Neil deGrasse Tyson', 2017);
+-- INSERT INTO books (id, title, author, year) VALUES (84, 'The Selfish Gene', 'Richard Dawkins', 1976);
+-- INSERT INTO books (id, title, author, year) VALUES (85, 'Silent Spring', 'Rachel Carson', 1962);
+-- INSERT INTO books (id, title, author, year) VALUES (86, 'Guns, Germs, and Steel', 'Jared Diamond', 1997);
+-- INSERT INTO books (id, title, author, year) VALUES (87, 'Sapiens', 'Yuval Noah Harari', 2011);
+-- INSERT INTO books (id, title, author, year) VALUES (88, 'Homo Deus', 'Yuval Noah Harari', 2015);
+-- INSERT INTO books (id, title, author, year) VALUES (89, 'The Immortal Life of Henrietta Lacks', 'Rebecca Skloot', 2010);
+-- INSERT INTO books (id, title, author, year) VALUES (90, 'The Gene', 'Siddhartha Mukherjee', 2016);
+
+-- INSERT INTO books (id, title, author, year) VALUES (91, 'The Art of War', 'Sun Tzu', -500);
+-- INSERT INTO books (id, title, author, year) VALUES (92, 'Meditations', 'Marcus Aurelius', 180);
+-- INSERT INTO books (id, title, author, year) VALUES (93, 'Man''s Search for Meaning', 'Viktor Frankl', 1946);
+-- INSERT INTO books (id, title, author, year) VALUES (94, 'Thinking, Fast and Slow', 'Daniel Kahneman', 2011);
+-- INSERT INTO books (id, title, author, year) VALUES (95, 'Atomic Habits', 'James Clear', 2018);
+-- INSERT INTO books (id, title, author, year) VALUES (96, 'The Power of Habit', 'Charles Duhigg', 2012);
+-- INSERT INTO books (id, title, author, year) VALUES (97, 'Rich Dad Poor Dad', 'Robert Kiyosaki', 1997);
+-- INSERT INTO books (id, title, author, year) VALUES (98, 'The 7 Habits of Highly Effective People', 'Stephen R. Covey', 1989);
+-- INSERT INTO books (id, title, author, year) VALUES (99, 'How to Win Friends and Influence People', 'Dale Carnegie', 1936);
+-- INSERT INTO books (id, title, author, year) VALUES (100, 'The Subtle Art of Not Giving a F*ck', 'Mark Manson', 2016);
+
+-- ALL REMAINING 150 WILL CONTINUE BELOW IN PART 2
+
+-- INSERT INTO books (id, title, author, year) VALUES (101, 'The Phantom Tollbooth', 'Norton Juster', 1961);
+-- INSERT INTO books (id, title, author, year) VALUES (102, 'The Wind in the Willows', 'Kenneth Grahame', 1908);
+-- INSERT INTO books (id, title, author, year) VALUES (103, 'The Velveteen Rabbit', 'Margery Williams', 1922);
+-- INSERT INTO books (id, title, author, year) VALUES (104, 'The Tale of Peter Rabbit', 'Beatrix Potter', 1902);
+-- INSERT INTO books (id, title, author, year) VALUES (105, 'The Ugly Duckling', 'Hans Christian Andersen', 1843);
+-- INSERT INTO books (id, title, author, year) VALUES (106, 'The Snow Queen', 'Hans Christian Andersen', 1844);
+-- INSERT INTO books (id, title, author, year) VALUES (107, 'The Adventures of Sherlock Holmes', 'Arthur Conan Doyle', 1892);
+-- INSERT INTO books (id, title, author, year) VALUES (108, 'The Hound of the Baskervilles', 'Arthur Conan Doyle', 1902);
+-- INSERT INTO books (id, title, author, year) VALUES (109, 'A Study in Scarlet', 'Arthur Conan Doyle', 1887);
+-- INSERT INTO books (id, title, author, year) VALUES (110, 'The Sign of Four', 'Arthur Conan Doyle', 1890);
+
+-- INSERT INTO books (id, title, author, year) VALUES (111, 'The Call of the Wild', 'Jack London', 1903);
+-- INSERT INTO books (id, title, author, year) VALUES (112, 'White Fang', 'Jack London', 1906);
+-- INSERT INTO books (id, title, author, year) VALUES (113, 'Treasure Island', 'Robert Louis Stevenson', 1883);
+-- INSERT INTO books (id, title, author, year) VALUES (114, 'Kidnapped', 'Robert Louis Stevenson', 1886);
+-- INSERT INTO books (id, title, author, year) VALUES (115, 'Black Beauty', 'Anna Sewell', 1877);
+-- INSERT INTO books (id, title, author, year) VALUES (116, 'Journey to the Center of the Earth', 'Jules Verne', 1864);
+-- INSERT INTO books (id, title, author, year) VALUES (117, 'Around the World in 80 Days', 'Jules Verne', 1873);
+-- INSERT INTO books (id, title, author, year) VALUES (118, 'Twenty Thousand Leagues Under the Sea', 'Jules Verne', 1870);
+-- INSERT INTO books (id, title, author, year) VALUES (119, 'The Time Machine', 'H.G. Wells', 1895);
+-- INSERT INTO books (id, title, author, year) VALUES (120, 'The War of the Worlds', 'H.G. Wells', 1898);
+
+-- INSERT INTO books (id, title, author, year) VALUES (121, 'The Invisible Man', 'H.G. Wells', 1897);
+-- INSERT INTO books (id, title, author, year) VALUES (122, 'The Island of Dr. Moreau', 'H.G. Wells', 1896);
+-- INSERT INTO books (id, title, author, year) VALUES (123, 'The Wonderful Wizard of Oz', 'L. Frank Baum', 1900);
+-- INSERT INTO books (id, title, author, year) VALUES (124, 'The Marvelous Land of Oz', 'L. Frank Baum', 1904);
+-- INSERT INTO books (id, title, author, year) VALUES (125, 'Peter Pan', 'J.M. Barrie', 1911);
+-- INSERT INTO books (id, title, author, year) VALUES (126, 'The Jungle Book', 'Rudyard Kipling', 1894);
+-- INSERT INTO books (id, title, author, year) VALUES (127, 'Just So Stories', 'Rudyard Kipling', 1902);
+-- INSERT INTO books (id, title, author, year) VALUES (128, 'Heidi', 'Johanna Spyri', 1881);
+-- INSERT INTO books (id, title, author, year) VALUES (129, 'Pinocchio', 'Carlo Collodi', 1883);
+-- INSERT INTO books (id, title, author, year) VALUES (130, 'The Secret of the Old Clock', 'Carolyn Keene', 1930);
+
+-- INSERT INTO books (id, title, author, year) VALUES (131, 'Nancy Drew: The Hidden Staircase', 'Carolyn Keene', 1930);
+-- INSERT INTO books (id, title, author, year) VALUES (132, 'The Hardy Boys: The Tower Treasure', 'Franklin W. Dixon', 1927);
+-- INSERT INTO books (id, title, author, year) VALUES (133, 'The Hardy Boys: The House on the Cliff', 'Franklin W. Dixon', 1927);
+-- INSERT INTO books (id, title, author, year) VALUES (134, 'Ella Enchanted', 'Gail Carson Levine', 1997);
+-- INSERT INTO books (id, title, author, year) VALUES (135, 'A Wrinkle in Time', 'Madeleine L''Engle', 1962);
+-- INSERT INTO books (id, title, author, year) VALUES (136, 'A Wind in the Door', 'Madeleine L''Engle', 1973);
+-- INSERT INTO books (id, title, author, year) VALUES (137, 'A Swiftly Tilting Planet', 'Madeleine L''Engle', 1978);
+-- INSERT INTO books (id, title, author, year) VALUES (138, 'Tuck Everlasting', 'Natalie Babbitt', 1975);
+-- INSERT INTO books (id, title, author, year) VALUES (139, 'The Indian in the Cupboard', 'Lynne Reid Banks', 1980);
+-- INSERT INTO books (id, title, author, year) VALUES (140, 'Bridge to Terabithia', 'Katherine Paterson', 1977);
+
+-- INSERT INTO books (id, title, author, year) VALUES (141, 'My Side of the Mountain', 'Jean Craighead George', 1959);
+-- INSERT INTO books (id, title, author, year) VALUES (142, 'Where the Red Fern Grows', 'Wilson Rawls', 1961);
+-- INSERT INTO books (id, title, author, year) VALUES (143, 'Old Yeller', 'Fred Gipson', 1956);
+-- INSERT INTO books (id, title, author, year) VALUES (144, 'Sounder', 'William H. Armstrong', 1969);
+-- INSERT INTO books (id, title, author, year) VALUES (145, 'Shiloh', 'Phyllis Reynolds Naylor', 1991);
+-- INSERT INTO books (id, title, author, year) VALUES (146, 'Coraline', 'Neil Gaiman', 2002);
+-- INSERT INTO books (id, title, author, year) VALUES (147, 'Stardust', 'Neil Gaiman', 1999);
+-- INSERT INTO books (id, title, author, year) VALUES (148, 'The Graveyard Book', 'Neil Gaiman', 2008);
+-- INSERT INTO books (id, title, author, year) VALUES (149, 'Fortunately, the Milk', 'Neil Gaiman', 2013);
+-- INSERT INTO books (id, title, author, year) VALUES (150, 'The Invention of Hugo Cabret', 'Brian Selznick', 2007);
+-- INSERT INTO books (id, title, author, year) VALUES
+-- (151,'The Prince','Niccolò Machiavelli',1532),
+-- (152,'The Adventures of Tom Sawyer','Mark Twain',1876),
+-- (153,'Adventures of Huckleberry Finn','Mark Twain',1884),
+-- (154,'A Connecticut Yankee in King Arthur\'s Court','Mark Twain',1889),
+-- (155,'The Mysterious Stranger','Mark Twain',1916),
+-- (156,'The Adventures of Pinocchio','Carlo Collodi',1883),
+-- (157,'The Last of the Mohicans','James Fenimore Cooper',1826),
+-- (158,'The Deerslayer','James Fenimore Cooper',1841),
+-- (159,'The Pathfinder','James Fenimore Cooper',1840),
+-- (160,'The Pioneers','James Fenimore Cooper',1823),
+-- (161,'The Pilgrim\'s Progress','John Bunyan',1678),
+-- (162,'Ivanhoe','Walter Scott',1819),
+-- (163,'Rob Roy','Walter Scott',1817),
+-- (164,'Waverley','Walter Scott',1814),
+-- (165,'Sense and Sensibility','Jane Austen',1811),
+-- (166,'Emma','Jane Austen',1815),
+-- (167,'Northanger Abbey','Jane Austen',1817),
+-- (168,'Persuasion','Jane Austen',1817),
+-- (169,'Mansfield Park','Jane Austen',1814),
+-- (170,'Great Expectations','Charles Dickens',1861),
+-- (171,'Oliver Twist','Charles Dickens',1839),
+-- (172,'David Copperfield','Charles Dickens',1850),
+-- (173,'A Tale of Two Cities','Charles Dickens',1859),
+-- (174,'Hard Times','Charles Dickens',1854),
+-- (175,'Nicholas Nickleby','Charles Dickens',1839),
+-- (176,'The Pickwick Papers','Charles Dickens',1837),
+-- (177,'Bleak House','Charles Dickens',1853),
+-- (178,'Kim','Rudyard Kipling',1901),
+-- (179,'Captains Courageous','Rudyard Kipling',1897),
+-- (180,'The Light That Failed','Rudyard Kipling',1891),
+-- (181,'Alice\'s Adventures in Wonderland','Lewis Carroll',1865),
+-- (182,'Through the Looking-Glass','Lewis Carroll',1871),
+-- (183,'Sylvie and Bruno','Lewis Carroll',1889),
+-- (184,'The Picture of Dorian Gray','Oscar Wilde',1890),
+-- (185,'The Happy Prince','Oscar Wilde',1888),
+-- (186,'The Importance of Being Earnest','Oscar Wilde',1895),
+-- (187,'The Canterville Ghost','Oscar Wilde',1887),
+-- (188,'The Scarlet Letter','Nathaniel Hawthorne',1850),
+-- (189,'The House of the Seven Gables','Nathaniel Hawthorne',1851),
+-- (190,'The Blithedale Romance','Nathaniel Hawthorne',1852),
+-- (191,'Moby-Dick','Herman Melville',1851),
+-- (192,'Billy Budd','Herman Melville',1924),
+-- (193,'Typee','Herman Melville',1846),
+-- (194,'White Jacket','Herman Melville',1850),
+-- (195,'War and Peace','Leo Tolstoy',1869),
+-- (196,'Anna Karenina','Leo Tolstoy',1877),
+-- (197,'Resurrection','Leo Tolstoy',1899),
+-- (198,'The Death of Ivan Ilyich','Leo Tolstoy',1886),
+-- (199,'The Kreutzer Sonata','Leo Tolstoy',1889),
+-- (200,'Crime and Punishment','Fyodor Dostoevsky',1866),
+
+-- -- continuing…
+
+-- (201,'The Brothers Karamazov','Fyodor Dostoevsky',1880),
+-- (202,'The Idiot','Fyodor Dostoevsky',1869),
+-- (203,'Demons','Fyodor Dostoevsky',1872),
+-- (204,'Notes from Underground','Fyodor Dostoevsky',1864),
+-- (205,'Fathers and Sons','Ivan Turgenev',1862),
+-- (206,'Rudin','Ivan Turgenev',1856),
+-- (207,'A Sportsman\'s Sketches','Ivan Turgenev',1852),
+-- (208,'Eugene Onegin','Alexander Pushkin',1833),
+-- (209,'The Captain\'s Daughter','Alexander Pushkin',1836),
+-- (210,'Dead Souls','Nikolai Gogol',1842),
+-- (211,'The Overcoat','Nikolai Gogol',1842),
+-- (212,'Taras Bulba','Nikolai Gogol',1835),
+-- (213,'Thus Spoke Zarathustra','Friedrich Nietzsche',1883),
+-- (214,'Beyond Good and Evil','Friedrich Nietzsche',1886),
+-- (215,'The Gay Science','Friedrich Nietzsche',1882),
+-- (216,'The Metamorphosis','Franz Kafka',1915),
+-- (217,'The Trial','Franz Kafka',1925),
+-- (218,'The Castle','Franz Kafka',1926),
+-- (219,'The Stranger','Albert Camus',1942),
+-- (220,'The Plague','Albert Camus',1947),
+-- (221,'The Myth of Sisyphus','Albert Camus',1942),
+
+-- -- continuing…
+
+-- (222,'Les Misérables','Victor Hugo',1862),
+-- (223,'The Hunchback of Notre-Dame','Victor Hugo',1831),
+-- (224,'Ninety-Three','Victor Hugo',1874),
+-- (225,'The Three Musketeers','Alexandre Dumas',1844),
+-- (226,'The Count of Monte Cristo','Alexandre Dumas',1844),
+-- (227,'The Man in the Iron Mask','Alexandre Dumas',1847),
+-- (228,'Twenty Years After','Alexandre Dumas',1845),
+-- (229,'Journey to the West','Wu Cheng\'en',1592),
+-- (230,'Romance of the Three Kingdoms','Luo Guanzhong',1300),
+-- (231,'Water Margin','Shi Nai\'an',1589),
+-- (232,'Dream of the Red Chamber','Cao Xueqin',1791),
+-- (233,'The Art of War','Sun Tzu',500),
+-- (234,'Tao Te Ching','Laozi',600),
+-- (235,'The Analects','Confucius',450),
+-- (236,'The Bhagavad Gita','Vyasa',400),
+-- (237,'Ramayana','Valmiki',500),
+-- (238,'Mahabharata','Vyasa',400),
+-- (239,'The Quran','Multiple',632),
+-- (240,'The Bible','Multiple',90),
+-- (241,'The Odyssey','Homer',-700),
+-- (242,'The Iliad','Homer',-750),
+-- (243,'The Aeneid','Virgil',-19),
+-- (244,'Oedipus Rex','Sophocles',-429),
+-- (245,'Medea','Euripides',-431),
+-- (246,'Antigone','Sophocles',-441),
+-- (247,'The Republic','Plato',-375),
+-- (248,'Nicomachean Ethics','Aristotle',-340),
+-- (249,'Meditations','Marcus Aurelius',180),
+-- (250,'The Histories','Herodotus',-440),
+
+-- -- continuing to 500…
+
+-- (251,'The Twelve Caesars','Suetonius',121),
+-- (252,'On the Nature of Things','Lucretius',-55),
+-- (253,'The Divine Comedy','Dante Alighieri',1320),
+-- (254,'Inferno','Dante Alighieri',1314),
+-- (255,'Purgatorio','Dante Alighieri',1315),
+-- (256,'Paradiso','Dante Alighieri',1316),
+-- (257,'Don Quixote','Miguel de Cervantes',1605),
+-- (258,'La Galatea','Miguel de Cervantes',1585),
+-- (259,'Persiles and Sigismunda','Miguel de Cervantes',1617),
+-- (260,'Gulliver\'s Travels','Jonathan Swift',1726),
+-- (261,'Robinson Crusoe','Daniel Defoe',1719),
+-- (262,'Moll Flanders','Daniel Defoe',1722),
+-- (263,'Candide','Voltaire',1759),
+-- (264,'Emile','Jean-Jacques Rousseau',1762),
+-- (265,'The Social Contract','Jean-Jacques Rousseau',1762),
+-- (266,'Frankenstein','Mary Shelley',1818),
+-- (267,'The Last Man','Mary Shelley',1826),
+-- (268,'Dracula','Bram Stoker',1897),
+-- (269,'The Lair of the White Worm','Bram Stoker',1911),
+-- (270,'Jude the Obscure','Thomas Hardy',1895),
+-- (271,'Tess of the d’Urbervilles','Thomas Hardy',1891),
+-- (272,'Far from the Madding Crowd','Thomas Hardy',1874),
+-- (273,'The Mayor of Casterbridge','Thomas Hardy',1886),
+-- (274,'Wuthering Heights','Emily Brontë',1847),
+-- (275,'Jane Eyre','Charlotte Brontë',1847),
+-- (276,'Shirley','Charlotte Brontë',1849),
+-- (277,'Agnes Grey','Anne Brontë',1847),
+-- (278,'The Tenant of Wildfell Hall','Anne Brontë',1848),
+-- (279,'The Swiss Family Robinson','Johann David Wyss',1812),
+-- (280,'Around the Moon','Jules Verne',1870),
+
+-- -- continuing until 650…
+
+-- (281,'Doctor Ox’s Experiment','Jules Verne',1872),
+-- (282,'The Mysterious Island','Jules Verne',1875),
+-- (283,'The Master of the World','Jules Verne',1904),
+-- (284,'From the Earth to the Moon','Jules Verne',1865),
+-- (285,'The War of the Worlds','H.G. Wells',1898),
+-- (286,'The Invisible Man','H.G. Wells',1897),
+-- (287,'The Food of the Gods','H.G. Wells',1904),
+-- (288,'The First Men in the Moon','H.G. Wells',1901),
+-- (289,'The Lost World','Arthur Conan Doyle',1912),
+-- (290,'The White Company','Arthur Conan Doyle',1891),
+-- (291,'Micah Clarke','Arthur Conan Doyle',1888),
+-- (292,'The Red Badge of Courage','Stephen Crane',1895),
+-- (293,'Maggie: A Girl of the Streets','Stephen Crane',1893),
+-- (294,'The Secret Agent','Joseph Conrad',1907),
+-- (295,'Heart of Darkness','Joseph Conrad',1899),
+-- (296,'Lord Jim','Joseph Conrad',1900),
+-- (297,'Nostromo','Joseph Conrad',1904),
+-- (298,'The Red Pony','John Steinbeck',1937),
+-- (299,'The Pearl','John Steinbeck',1947),
+-- (300,'Of Mice and Men','John Steinbeck',1937),
+
+-- continuing (301–650, 350 more)…
+-- INSERT INTO books (id, title, author, year) VALUES
+-- (301, 'The Hobbit', 'J.R.R. Tolkien', 1937),
+-- (302, 'The Fellowship of the Ring', 'J.R.R. Tolkien', 1954),
+-- (303, 'The Two Towers', 'J.R.R. Tolkien', 1954),
+-- (304, 'The Return of the King', 'J.R.R. Tolkien', 1955),
+-- (305, 'The Adventures of Tom Sawyer', 'Mark Twain', 1876),
+-- (306, 'The Adventures of Huckleberry Finn', 'Mark Twain', 1884),
+-- (307, 'The Prince and the Pauper', 'Mark Twain', 1881),
+-- (308, 'The Call of the Wild', 'Jack London', 1903),
+-- (309, 'White Fang', 'Jack London', 1906),
+-- (310, 'The Secret Garden', 'Frances Hodgson Burnett', 1911),
+-- (311, 'A Little Princess', 'Frances Hodgson Burnett', 1905),
+-- (312, 'Heidi', 'Johanna Spyri', 1881),
+-- (313, 'Black Beauty', 'Anna Sewell', 1877),
+-- (314, 'Treasure Island', 'Robert Louis Stevenson', 1883),
+-- (315, 'Kidnapped', 'Robert Louis Stevenson', 1886),
+-- (316, 'Robinson Crusoe', 'Daniel Defoe', 1719),
+-- (317, 'Gulliver’s Travels', 'Jonathan Swift', 1726),
+-- (318, 'Journey to the Center of the Earth', 'Jules Verne', 1864),
+-- (319, 'Around the World in Eighty Days', 'Jules Verne', 1873),
+-- (320, '20,000 Leagues Under the Sea', 'Jules Verne', 1870),
+-- (321, 'The Time Machine', 'H.G. Wells', 1895),
+-- (322, 'The War of the Worlds', 'H.G. Wells', 1898),
+-- (323, 'The Wonderful Wizard of Oz', 'L. Frank Baum', 1900),
+-- (324, 'Anne of Green Gables', 'L.M. Montgomery', 1908),
+-- (325, 'Anne of Avonlea', 'L.M. Montgomery', 1909),
+-- (326, 'Little Women', 'Louisa May Alcott', 1868),
+-- (327, 'Little Men', 'Louisa May Alcott', 1871),
+-- (328, 'Jo’s Boys', 'Louisa May Alcott', 1886),
+-- (329, 'The Wind in the Willows', 'Kenneth Grahame', 1908),
+-- (330, 'The Tale of Peter Rabbit', 'Beatrix Potter', 1902),
+-- (331, 'The Velveteen Rabbit', 'Margery Williams', 1922),
+-- (332, 'Charlotte’s Web', 'E.B. White', 1952),
+-- (333, 'Stuart Little', 'E.B. White', 1945),
+-- (334, 'The Trumpet of the Swan', 'E.B. White', 1970),
+-- (335, 'The Borrowers', 'Mary Norton', 1952),
+-- (336, 'Pippi Longstocking', 'Astrid Lindgren', 1945),
+-- (337, 'Pippi Goes on Board', 'Astrid Lindgren', 1946),
+-- (338, 'Pippi in the South Seas', 'Astrid Lindgren', 1948),
+-- (339, 'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe', 'C.S. Lewis', 1950),
+-- (340, 'Prince Caspian', 'C.S. Lewis', 1951),
+-- (341, 'The Voyage of the Dawn Treader', 'C.S. Lewis', 1952),
+-- (342, 'The Silver Chair', 'C.S. Lewis', 1953),
+-- (343, 'The Horse and His Boy', 'C.S. Lewis', 1954),
+-- (344, 'The Magician’s Nephew', 'C.S. Lewis', 1955),
+-- (345, 'The Last Battle', 'C.S. Lewis', 1956),
+-- (346, 'Alice’s Adventures in Wonderland', 'Lewis Carroll', 1865),
+-- (347, 'Through the Looking-Glass', 'Lewis Carroll', 1871),
+-- (348, 'The Jungle Book', 'Rudyard Kipling', 1894),
+-- (349, 'Just So Stories', 'Rudyard Kipling', 1902),
+-- (350, 'The Railway Children', 'E. Nesbit', 1906);
+-- INSERT INTO books (id, title, author, year) VALUES
+-- (351, 'Five Children and It', 'E. Nesbit', 1902),
+-- (352, 'The Phoenix and the Carpet', 'E. Nesbit', 1904),
+-- (353, 'The Story of the Treasure Seekers', 'E. Nesbit', 1899),
+-- (354, 'The Secret of the Old Clock', 'Carolyn Keene', 1930),
+-- (355, 'The Hidden Staircase', 'Carolyn Keene', 1930),
+-- (356, 'The Bungalow Mystery', 'Carolyn Keene', 1930),
+-- (357, 'The Hardy Boys: The Tower Treasure', 'Franklin W. Dixon', 1927),
+-- (358, 'The House on the Cliff', 'Franklin W. Dixon', 1927),
+-- (359, 'The Secret of the Caves', 'Franklin W. Dixon', 1929),
+-- (360, 'The Boxcar Children', 'Gertrude Chandler Warner', 1924),
+-- (361, 'Island of the Blue Dolphins', 'Scott O’Dell', 1960),
+-- (362, 'Where the Red Fern Grows', 'Wilson Rawls', 1961),
+-- (363, 'Old Yeller', 'Fred Gipson', 1956),
+-- (364, 'The Indian in the Cupboard', 'Lynne Reid Banks', 1980),
+-- (365, 'The Neverending Story', 'Michael Ende', 1979),
+-- (366, 'The Giver', 'Lois Lowry', 1993),
+-- (367, 'Gathering Blue', 'Lois Lowry', 2000),
+-- (368, 'Messenger', 'Lois Lowry', 2004),
+-- (369, 'Son', 'Lois Lowry', 2012),
+-- (370, 'Bridge to Terabithia', 'Katherine Paterson', 1977),
+-- (371, 'Holes', 'Louis Sachar', 1998),
+-- (372, 'Because of Winn-Dixie', 'Kate DiCamillo', 2000),
+-- (373, 'The Tale of Despereaux', 'Kate DiCamillo', 2003),
+-- (374, 'The Miraculous Journey of Edward Tulane', 'Kate DiCamillo', 2006),
+-- (375, 'Flora & Ulysses', 'Kate DiCamillo', 2013),
+-- (376, 'Percy Jackson: The Lightning Thief', 'Rick Riordan', 2005),
+-- (377, 'Percy Jackson: The Sea of Monsters', 'Rick Riordan', 2006),
+-- (378, 'Percy Jackson: The Titan’s Curse', 'Rick Riordan', 2007),
+-- (379, 'Percy Jackson: The Battle of the Labyrinth', 'Rick Riordan', 2008),
+-- (380, 'Percy Jackson: The Last Olympian', 'Rick Riordan', 2009),
+-- (381, 'The Maze Runner', 'James Dashner', 2009),
+-- (382, 'The Scorch Trials', 'James Dashner', 2010),
+-- (383, 'The Death Cure', 'James Dashner', 2011),
+-- (384, 'The Kill Order', 'James Dashner', 2012),
+-- (385, 'The Fever Code', 'James Dashner', 2016),
+-- (386, 'The Mysterious Benedict Society', 'Trenton Lee Stewart', 2007),
+-- (387, 'The Mysterious Benedict Society and the Perilous Journey', 'Trenton Lee Stewart', 2008),
+-- (388, 'The Mysterious Benedict Society and the Prisoner’s Dilemma', 'Trenton Lee Stewart', 2009),
+-- (389, 'The Dark Is Rising', 'Susan Cooper', 1973),
+-- (390, 'Over Sea, Under Stone', 'Susan Cooper', 1965),
+-- (391, 'Greenwitch', 'Susan Cooper', 1974),
+-- (392, 'The Grey King', 'Susan Cooper', 1975),
+-- (393, 'Silver on the Tree', 'Susan Cooper', 1977),
+-- (394, 'Tuck Everlasting', 'Natalie Babbitt', 1975),
+-- (395, 'The Invention of Hugo Cabret', 'Brian Selznick', 2007),
+-- (396, 'Wonder', 'R.J. Palacio', 2012),
+-- (397, 'The One and Only Ivan', 'Katherine Applegate', 2012),
+-- (398, 'Crenshaw', 'Katherine Applegate', 2015),
+-- (399, 'The City of Ember', 'Jeanne DuPrau', 2003),
+-- (400, 'The People of Sparks', 'Jeanne DuPrau', 2004);
+-- INSERT INTO books (id, title, author, year) VALUES
+-- (401, 'The Prophet of Yonwood', 'Jeanne DuPrau', 2006),
+-- (402, 'The Diamond of Darkhold', 'Jeanne DuPrau', 2008),
+-- (403, 'Hatchet', 'Gary Paulsen', 1987),
+-- (404, 'Brian’s Winter', 'Gary Paulsen', 1996),
+-- (405, 'Brian’s Return', 'Gary Paulsen', 1999),
+-- (406, 'Brian’s Hunt', 'Gary Paulsen', 2003),
+-- (407, 'My Side of the Mountain', 'Jean Craighead George', 1959),
+-- (408, 'On the Far Side of the Mountain', 'Jean Craighead George', 1990),
+-- (409, 'Frightful’s Mountain', 'Jean Craighead George', 1999),
+-- (410, 'The Tale of Peter Rabbit', 'Beatrix Potter', 1902),
+-- (411, 'The Tale of Squirrel Nutkin', 'Beatrix Potter', 1903),
+-- (412, 'The Tale of Benjamin Bunny', 'Beatrix Potter', 1904),
+-- (413, 'The Tale of Mrs. Tiggy-Winkle', 'Beatrix Potter', 1905),
+-- (414, 'The Tale of Mr. Jeremy Fisher', 'Beatrix Potter', 1906),
+-- (415, 'The Tale of Tom Kitten', 'Beatrix Potter', 1907),
+-- (416, 'The Tale of Jemima Puddle-Duck', 'Beatrix Potter', 1908),
+-- (417, 'The Tale of Samuel Whiskers', 'Beatrix Potter', 1908),
+-- (418, 'The Tale of Ginger and Pickles', 'Beatrix Potter', 1909),
+-- (419, 'Ella Enchanted', 'Gail Carson Levine', 1997),
+-- (420, 'The Two Princesses of Bamarre', 'Gail Carson Levine', 2001),
+-- (421, 'Fairest', 'Gail Carson Levine', 2006),
+-- (422, 'A Wrinkle in Time', 'Madeleine L’Engle', 1962),
+-- (423, 'A Wind in the Door', 'Madeleine L’Engle', 1973),
+-- (424, 'A Swiftly Tilting Planet', 'Madeleine L’Engle', 1978),
+-- (425, 'Many Waters', 'Madeleine L’Engle', 1986),
+-- (426, 'An Acceptable Time', 'Madeleine L’Engle', 1989),
+-- (427, 'The Book Thief', 'Markus Zusak', 2005),
+-- (428, 'The Graveyard Book', 'Neil Gaiman', 2008),
+-- (429, 'Coraline', 'Neil Gaiman', 2002),
+-- (430, 'Stargirl', 'Jerry Spinelli', 2000),
+-- (431, 'Maniac Magee', 'Jerry Spinelli', 1990),
+-- (432, 'Loser', 'Jerry Spinelli', 2002),
+-- (433, 'The Westing Game', 'Ellen Raskin', 1978),
+-- (434, 'The Witch of Blackbird Pond', 'Elizabeth George Speare', 1958),
+-- (435, 'Sign of the Beaver', 'Elizabeth George Speare', 1983),
+-- (436, 'The Bronze Bow', 'Elizabeth George Speare', 1961),
+-- (437, 'Swiss Family Robinson', 'Johann David Wyss', 1812),
+-- (438, 'The Little Prince', 'Antoine de Saint-Exupéry', 1943),
+-- (439, 'The Cricket in Times Square', 'George Selden', 1960),
+-- (440, 'Shiloh', 'Phyllis Reynolds Naylor', 1991),
+-- (441, 'The Watsons Go to Birmingham', 'Christopher Paul Curtis', 1995),
+-- (442, 'Bud, Not Buddy', 'Christopher Paul Curtis', 1999),
+-- (443, 'The War That Saved My Life', 'Kimberly Brubaker Bradley', 2015),
+-- (444, 'Number the Stars', 'Lois Lowry', 1989),
+-- (445, 'The BFG', 'Roald Dahl', 1982),
+-- (446, 'Fantastic Mr. Fox', 'Roald Dahl', 1970),
+-- (447, 'Charlie and the Chocolate Factory', 'Roald Dahl', 1964),
+-- (448, 'Charlie and the Great Glass Elevator', 'Roald Dahl', 1972),
+-- (449, 'James and the Giant Peach', 'Roald Dahl', 1961),
+-- (450, 'The Witches', 'Roald Dahl', 1983),
+-- (451, 'Danny the Champion of the World', 'Roald Dahl', 1975),
+-- (452, 'George’s Marvellous Medicine', 'Roald Dahl', 1981),
+-- (453, 'The Twits', 'Roald Dahl', 1980),
+-- (454, 'The Magic Finger', 'Roald Dahl', 1966),
+-- (455, 'The Tale of Despereaux', 'Kate DiCamillo', 2003),
+-- (456, 'The Miraculous Journey of Edward Tulane', 'Kate DiCamillo', 2006),
+-- (457, 'The Tiger Rising', 'Kate DiCamillo', 2001),
+-- (458, 'Raymie Nightingale', 'Kate DiCamillo', 2016),
+-- (459, 'The Wild Robot', 'Peter Brown', 2016),
+-- (460, 'The Wild Robot Escapes', 'Peter Brown', 2018),
+-- (461, 'The Wild Robot Protects', 'Peter Brown', 2023),
+-- (462, 'Winnie-the-Pooh', 'A.A. Milne', 1926),
+-- (463, 'The House at Pooh Corner', 'A.A. Milne', 1928),
+-- (464, 'The Mouse and the Motorcycle', 'Beverly Cleary', 1965),
+-- (465, 'Runaway Ralph', 'Beverly Cleary', 1970),
+-- (466, 'Ralph S. Mouse', 'Beverly Cleary', 1982),
+-- (467, 'Henry Huggins', 'Beverly Cleary', 1950),
+-- (468, 'Beezus and Ramona', 'Beverly Cleary', 1955),
+-- (469, 'Ramona the Pest', 'Beverly Cleary', 1968),
+-- (470, 'Ramona and Her Father', 'Beverly Cleary', 1977),
+-- (471, 'Ramona and Her Mother', 'Beverly Cleary', 1979),
+-- (472, 'Ramona Quimby, Age 8', 'Beverly Cleary', 1981),
+-- (473, 'Ramona Forever', 'Beverly Cleary', 1984),
+-- (474, 'Ramona’s World', 'Beverly Cleary', 1999),
+-- (475, 'Sarah, Plain and Tall', 'Patricia MacLachlan', 1985),
+-- (476, 'Skylark', 'Patricia MacLachlan', 1994),
+-- (477, 'Caleb’s Story', 'Patricia MacLachlan', 2001),
+-- (478, 'More Perfect Than the Moon', 'Patricia MacLachlan', 2004),
+-- (479, 'Grandfather’s Dance', 'Patricia MacLachlan', 2006),
+-- (480, 'The Penderwicks', 'Jeanne Birdsall', 2005),
+-- (481, 'The Penderwicks on Gardam Street', 'Jeanne Birdsall', 2008),
+-- (482, 'The Penderwicks at Point Mouette', 'Jeanne Birdsall', 2011),
+-- (483, 'The Penderwicks in Spring', 'Jeanne Birdsall', 2015),
+-- (484, 'The Penderwicks at Last', 'Jeanne Birdsall', 2018),
+-- (485, 'The City of Gold and Lead', 'John Christopher', 1967),
+-- (486, 'The White Mountains', 'John Christopher', 1967),
+-- (487, 'The Pool of Fire', 'John Christopher', 1968),
+-- (488, 'The Sword in the Stone', 'T.H. White', 1938),
+-- (489, 'The Once and Future King', 'T.H. White', 1958),
+-- (490, 'Redwall', 'Brian Jacques', 1986),
+-- (491, 'Mossflower', 'Brian Jacques', 1988),
+-- (492, 'Mattimeo', 'Brian Jacques', 1989),
+-- (493, 'Salamandastron', 'Brian Jacques', 1992),
+-- (494, 'Pearls of Lutra', 'Brian Jacques', 1996),
+-- (495, 'Martin the Warrior', 'Brian Jacques', 1993),
+-- (496, 'The Golden Compass', 'Philip Pullman', 1995),
+-- (497, 'The Subtle Knife', 'Philip Pullman', 1997),
+-- (498, 'The Amber Spyglass', 'Philip Pullman', 2000),
+-- (499, 'The Secret Zoo', 'Bryan Chick', 2010),
+-- (500, 'The Secret Zoo: Secrets and Shadows', 'Bryan Chick', 2011),
+-- (501, 'The Secret Zoo: Riddles and Danger', 'Bryan Chick', 2012),
+-- (502, 'The Secret Zoo: Traps and Specters', 'Bryan Chick', 2013),
+-- (503, 'The Secret Zoo: Raids and Rescues', 'Bryan Chick', 2014),
+-- (504, 'The Secret Zoo: The Final Fight', 'Bryan Chick', 2015),
+-- (505, 'The Last Kids on Earth', 'Max Brallier', 2015),
+-- (506, 'The Last Kids on Earth and the Zombie Parade', 'Max Brallier', 2016),
+-- (507, 'The Last Kids on Earth and the Nightmare King', 'Max Brallier', 2017),
+-- (508, 'The Last Kids on Earth and the Cosmic Beyond', 'Max Brallier', 2018),
+-- (509, 'The Last Kids on Earth and the Midnight Blade', 'Max Brallier', 2019),
+-- (510, 'Gregor the Overlander', 'Suzanne Collins', 2003),
+-- (511, 'Gregor and the Prophecy of Bane', 'Suzanne Collins', 2004),
+-- (512, 'Gregor and the Curse of the Warmbloods', 'Suzanne Collins', 2005),
+-- (513, 'Gregor and the Marks of Secret', 'Suzanne Collins', 2006),
+-- (514, 'Gregor and the Code of Claw', 'Suzanne Collins', 2007),
+-- (515, 'The Girl Who Drank the Moon', 'Kelly Barnhill', 2016),
+-- (516, 'The Iron Giant', 'Ted Hughes', 1968),
+-- (517, 'Mrs. Frisby and the Rats of NIMH', 'Robert C. O’Brien', 1971),
+-- (518, 'Ella Enchanted', 'Gail Carson Levine', 1997),
+-- (519, 'Inkheart', 'Cornelia Funke', 2003),
+-- (520, 'Inkspell', 'Cornelia Funke', 2005),
+-- (521, 'Inkdeath', 'Cornelia Funke', 2007),
+-- (522, 'Dragon Rider', 'Cornelia Funke', 1997),
+-- (523, 'The Thief Lord', 'Cornelia Funke', 2000),
+-- (524, 'Artemis Fowl', 'Eoin Colfer', 2001),
+-- (525, 'Artemis Fowl: The Arctic Incident', 'Eoin Colfer', 2002),
+-- (526, 'Artemis Fowl: The Eternity Code', 'Eoin Colfer', 2003),
+-- (527, 'Artemis Fowl: The Opal Deception', 'Eoin Colfer', 2005),
+-- (528, 'Artemis Fowl: The Lost Colony', 'Eoin Colfer', 2006),
+-- (529, 'Artemis Fowl: The Time Paradox', 'Eoin Colfer', 2008),
+-- (530, 'Artemis Fowl: The Atlantis Complex', 'Eoin Colfer', 2010),
+-- (531, 'Artemis Fowl: The Last Guardian', 'Eoin Colfer', 2012),
+-- (532, 'The Girl Who Could Fly', 'Victoria Forester', 2008),
+-- (533, 'The Boy Who Knew Everything', 'Victoria Forester', 2015),
+-- (534, 'Fablehaven', 'Brandon Mull', 2006),
+-- (535, 'Fablehaven: Rise of the Evening Star', 'Brandon Mull', 2007),
+-- (536, 'Fablehaven: Grip of the Shadow Plague', 'Brandon Mull', 2008),
+-- (537, 'Fablehaven: Secrets of the Dragon Sanctuary', 'Brandon Mull', 2009),
+-- (538, 'Fablehaven: Keys to the Demon Prison', 'Brandon Mull', 2010),
+-- (539, 'The Unwanteds', 'Lisa McMann', 2011),
+-- (540, 'The Unwanteds: Island of Silence', 'Lisa McMann', 2012),
+-- (541, 'The Unwanteds: Island of Fire', 'Lisa McMann', 2013),
+-- (542, 'The Unwanteds: Island of Legends', 'Lisa McMann', 2014),
+-- (543, 'The Unwanteds: Island of Shipwrecks', 'Lisa McMann', 2015),
+-- (544, 'The Unwanteds: Island of Graves', 'Lisa McMann', 2015),
+-- (545, 'The Unwanteds: Island of Dragons', 'Lisa McMann', 2016),
+-- (546, 'The One and Only Bob', 'Katherine Applegate', 2020),
+-- (547, 'The One and Only Ruby', 'Katherine Applegate', 2023),
+-- (548, 'The Secret Garden', 'Frances Hodgson Burnett', 1911),
+-- (549, 'Mary Poppins', 'P.L. Travers', 1934),
+-- (550, 'Mary Poppins Comes Back', 'P.L. Travers', 1935);
+-- (551, "The Secret Lake", "Karen Inglis", 2011),
+-- (552, "The Afterlife of Holly Chase", "Cynthia Hand", 2017),
+-- (553, "The Last Kids on Earth", "Max Brallier", 2015),
+-- (554, "The Girl Who Drank the Moon", "Kelly Barnhill", 2016),
+-- (555, "The Night Gardener", "Jonathan Auxier", 2014),
+-- (556, "Sweep: The Story of a Girl and Her Monster", "Jonathan Auxier", 2018),
+-- (557, "Orbiting Jupiter", "Gary D. Schmidt", 2015),
+-- (558, "Lizzie Bright and the Buckminster Boy", "Gary D. Schmidt", 2004),
+-- (559, "Okay for Now", "Gary D. Schmidt", 2011),
+-- (560, "The Wednesday Wars", "Gary D. Schmidt", 2007),
+-- (561, "The Green Ember", "S.D. Smith", 2014),
+-- (562, "Ember Falls", "S.D. Smith", 2016),
+-- (563, "Ember Rising", "S.D. Smith", 2018),
+-- (564, "Ember’s End", "S.D. Smith", 2020),
+-- (565, "Ranger’s Apprentice: The Ruins of Gorlan", "John Flanagan", 2004),
+-- (566, "Ranger’s Apprentice: The Burning Bridge", "John Flanagan", 2005),
+-- (567, "Ranger’s Apprentice: The Icebound Land", "John Flanagan", 2005),
+-- (568, "Ranger’s Apprentice: The Battle for Skandia", "John Flanagan", 2006),
+-- (569, "Fablehaven", "Brandon Mull", 2006),
+-- (570, "Fablehaven: Rise of the Evening Star", "Brandon Mull", 2007),
+-- (571, "Fablehaven: Grip of the Shadow Plague", "Brandon Mull", 2008),
+-- (572, "Fablehaven: Secrets of the Dragon Sanctuary", "Brandon Mull", 2009),
+-- (573, "A Wrinkle in Time", "Madeleine L’Engle", 1962),
+-- (574, "A Wind in the Door", "Madeleine L’Engle", 1973),
+-- (575, "A Swiftly Tilting Planet", "Madeleine L’Engle", 1978),
+-- (576, "Many Waters", "Madeleine L’Engle", 1986),
+-- (577, "The Miraculous Journey of Edward Tulane", "Kate DiCamillo", 2006),
+-- (578, "The Tale of Despereaux", "Kate DiCamillo", 2003),
+-- (579, "Raymie Nightingale", "Kate DiCamillo", 2016),
+-- (580, "Louisiana’s Way Home", "Kate DiCamillo", 2018),
+-- (581, "The Invention of Hugo Cabret", "Brian Selznick", 2007),
+-- (582, "Wonderstruck", "Brian Selznick", 2011),
+-- (583, "The Marvels", "Brian Selznick", 2015),
+-- (584, "A Monster Calls", "Patrick Ness", 2011),
+-- (585, "The Knife of Never Letting Go", "Patrick Ness", 2008),
+-- (586, "The Ask and the Answer", "Patrick Ness", 2009),
+-- (587, "Monsters of Men", "Patrick Ness", 2010),
+-- (588, "Gregor the Overlander", "Suzanne Collins", 2003),
+-- (589, "Gregor and the Prophecy of Bane", "Suzanne Collins", 2004),
+-- (590, "Gregor and the Curse of the Warmbloods", "Suzanne Collins", 2005),
+-- (591, "Gregor and the Marks of Secret", "Suzanne Collins", 2006),
+-- (592, "Gregor and the Code of Claw", "Suzanne Collins", 2007),
+-- (593, "The Wild Robot", "Peter Brown", 2016),
+-- (594, "The Wild Robot Escapes", "Peter Brown", 2018),
+-- (595, "The Wild Robot Protects", "Peter Brown", 2023),
+-- (596, "Hatchet", "Gary Paulsen", 1986),
+-- (597, "The River", "Gary Paulsen", 1991),
+-- (598, "Brian’s Winter", "Gary Paulsen", 1996),
+-- (599, "Brian’s Return", "Gary Paulsen", 1999),
+-- (600, "Brian’s Hunt", "Gary Paulsen", 2003),
+-- (601, "The Westing Game", "Ellen Raskin", 1978),
+-- (602, "The Egypt Game", "Zilpha Keatley Snyder", 1967),
+-- (603, "The Headless Cupid", "Zilpha Keatley Snyder", 1971),
+-- (604, "The Witches of Worm", "Zilpha Keatley Snyder", 1972),
+-- (605, "The Book of Three", "Lloyd Alexander", 1964),
+-- (606, "The Black Cauldron", "Lloyd Alexander", 1965),
+-- (607, "The Castle of Llyr", "Lloyd Alexander", 1966),
+-- (608, "Taran Wanderer", "Lloyd Alexander", 1967),
+-- (609, "The High King", "Lloyd Alexander", 1968),
+-- (610, "Pax", "Sara Pennypacker", 2016),
+-- (611, "Pax: Journey Home", "Sara Pennypacker", 2021),
+-- (612, "Front Desk", "Kelly Yang", 2018),
+-- (613, "Three Keys", "Kelly Yang", 2020),
+-- (614, "Room to Dream", "Kelly Yang", 2021),
+-- (615, "The One and Only Ivan", "Katherine Applegate", 2012),
+-- (616, "The One and Only Bob", "Katherine Applegate", 2020),
+-- (617, "The One and Only Ruby", "Katherine Applegate", 2023),
+-- (618, "Crenshaw", "Katherine Applegate", 2015),
+-- (619, "Wishtree", "Katherine Applegate", 2017),
+-- (620, "Keeper of the Lost Cities", "Shannon Messenger", 2012),
+-- (621, "Exile", "Shannon Messenger", 2013),
+-- (622, "Everblaze", "Shannon Messenger", 2014),
+-- (623, "Neverseen", "Shannon Messenger", 2015),
+-- (624, "Lodestar", "Shannon Messenger", 2016),
+-- (625, "Nightfall", "Shannon Messenger", 2017),
+-- (626, "Flashback", "Shannon Messenger", 2018),
+-- (627, "Legacy", "Shannon Messenger", 2019),
+-- (628, "Stellarlune", "Shannon Messenger", 2022),
+-- (629, "Escape from Mr. Lemoncello’s Library", "Chris Grabenstein", 2013),
+-- (630, "Mr. Lemoncello’s Library Olympics", "Chris Grabenstein", 2016),
+-- (631, "Mr. Lemoncello’s Great Library Race", "Chris Grabenstein", 2017),
+-- (632, "Mr. Lemoncello’s All-Star Breakout Game", "Chris Grabenstein", 2019),
+-- (633, "The Girl Who Circumnavigated Fairyland", "Catherynne M. Valente", 2011),
+-- (634, "The Boy Who Lost Fairyland", "Catherynne M. Valente", 2015),
+-- (635, "Fairest", "Gail Carson Levine", 2006),
+-- (636, "Ella Enchanted", "Gail Carson Levine", 1997),
+-- (637, "The Two Princesses of Bamarre", "Gail Carson Levine", 2001),
+-- (638, "The Thief", "Megan Whalen Turner", 1996),
+-- (639, "The Queen of Attolia", "Megan Whalen Turner", 2000),
+-- (640, "The King of Attolia", "Megan Whalen Turner", 2006),
+-- (641, "A Conspiracy of Kings", "Megan Whalen Turner", 2010),
+-- (642, "Thick as Thieves", "Megan Whalen Turner", 2017),
+-- (643, "Inkheart", "Cornelia Funke", 2003),
+-- (644, "Inkspell", "Cornelia Funke", 2005),
+-- (645, "Inkdeath", "Cornelia Funke", 2007),
+-- (646, "Dragon Rider", "Cornelia Funke", 1997),
+-- (647, "The Thief Lord", "Cornelia Funke", 2000),
+-- (648, "The Golden Compass", "Philip Pullman", 1995),
+-- (649, "The Subtle Knife", "Philip Pullman", 1997),
+-- (650, "The Amber Spyglass", "Philip Pullman", 2000),
+-- (651, "The Hobbit", "J.R.R. Tolkien", 1937),
+-- (652, "The Fellowship of the Ring", "J.R.R. Tolkien", 1954),
+-- (653, "The Two Towers", "J.R.R. Tolkien", 1954),
+-- (654, "The Return of the King", "J.R.R. Tolkien", 1955),
+-- (655, "The Adventures of Tom Sawyer", "Mark Twain", 1876),
+-- (656, "Adventures of Huckleberry Finn", "Mark Twain", 1884),
+-- (657, "The Prince and the Pauper", "Mark Twain", 1881),
+-- (658, "The Mysterious Island", "Jules Verne", 1874),
+-- (659, "Around the World in 80 Days", "Jules Verne", 1873),
+-- (660, "Journey to the Center of the Earth", "Jules Verne", 1864),
+-- (661, "Twenty Thousand Leagues Under the Seas", "Jules Verne", 1870),
+-- (662, "Heidi", "Johanna Spyri", 1881),
+-- (663, "Pollyanna", "Eleanor H. Porter", 1913),
+-- (664, "Rebecca of Sunnybrook Farm", "Kate Douglas Wiggin", 1903),
+-- (665, "The Secret Garden", "Frances Hodgson Burnett", 1911),
+-- (666, "A Little Princess", "Frances Hodgson Burnett", 1905),
+-- (667, "Little Women", "Louisa May Alcott", 1868),
+-- (668, "Little Men", "Louisa May Alcott", 1871),
+-- (669, "Jo’s Boys", "Louisa May Alcott", 1886),
+-- (670, "The Wind in the Willows", "Kenneth Grahame", 1908),
+-- (671, "The Railway Children", "E. Nesbit", 1906),
+-- (672, "The Velveteen Rabbit", "Margery Williams", 1922),
+-- (673, "The Giving Tree", "Shel Silverstein", 1964),
+-- (674, "Charlotte’s Web", "E.B. White", 1952),
+-- (675, "Stuart Little", "E.B. White", 1945),
+-- (676, "The Trumpet of the Swan", "E.B. White", 1970),
+-- (677, "Anne of Green Gables", "L.M. Montgomery", 1908),
+-- (678, "Anne of Avonlea", "L.M. Montgomery", 1909),
+-- (679, "Anne of the Island", "L.M. Montgomery", 1915),
+-- (680, "The Borrowers", "Mary Norton", 1952),
+-- (681, "Mary Poppins", "P.L. Travers", 1934),
+-- (682, "Peter Pan", "J.M. Barrie", 1911),
+-- (683, "The Jungle Book", "Rudyard Kipling", 1894),
+-- (684, "Just So Stories", "Rudyard Kipling", 1902),
+-- (685, "Black Beauty", "Anna Sewell", 1877),
+-- (686, "Treasure Island", "Robert Louis Stevenson", 1883),
+-- (687, "Kidnapped", "Robert Louis Stevenson", 1886),
+-- (688, "Dr. Dolittle", "Hugh Lofting", 1920),
+-- (689, "The Phantom Tollbooth", "Norton Juster", 1961),
+-- (690, "The Cricket in Times Square", "George Selden", 1960),
+-- (691, "My Side of the Mountain", "Jean Craighead George", 1959),
+-- (692, "Julie of the Wolves", "Jean Craighead George", 1972),
+-- (693, "The Boxcar Children", "Gertrude Chandler Warner", 1924),
+-- (694, "The Hardy Boys: The Tower Treasure", "Franklin W. Dixon", 1927),
+-- (695, "The Hardy Boys: The House on the Cliff", "Franklin W. Dixon", 1927),
+-- (696, "Nancy Drew: The Secret of the Old Clock", "Carolyn Keene", 1930),
+-- (697, "Nancy Drew: The Hidden Staircase", "Carolyn Keene", 1930),
+-- (698, "The Call of the Wild", "Jack London", 1903),
+-- (699, "White Fang", "Jack London", 1906),
+-- (700, "The Polar Express", "Chris Van Allsburg", 1985);
+-- (701, "The Snowy Day", "Ezra Jack Keats", 1962),
+-- (702, "The Tale of Peter Rabbit", "Beatrix Potter", 1902),
+-- (703, "The Tale of Benjamin Bunny", "Beatrix Potter", 1904),
+-- (704, "The Tale of Tom Kitten", "Beatrix Potter", 1907),
+-- (705, "The Tale of Jemima Puddle-Duck", "Beatrix Potter", 1908),
+-- (706, "The Little Prince", "Antoine de Saint-Exupéry", 1943),
+-- (707, "The Bad Beginning", "Lemony Snicket", 1999),
+-- (708, "The Reptile Room", "Lemony Snicket", 1999),
+-- (709, "The Wide Window", "Lemony Snicket", 2000),
+-- (710, "The Miserable Mill", "Lemony Snicket", 2000),
+-- (711, "The Vile Village", "Lemony Snicket", 2001),
+-- (712, "The Penultimate Peril", "Lemony Snicket", 2005),
+-- (713, "The End", "Lemony Snicket", 2006),
+-- (714, "The Graveyard Book", "Neil Gaiman", 2008),
+-- (715, "Coraline", "Neil Gaiman", 2002),
+-- (716, "Fortunately, the Milk", "Neil Gaiman", 2013),
+-- (717, "Odd and the Frost Giants", "Neil Gaiman", 2008),
+-- (718, "Stargirl", "Jerry Spinelli", 2000),
+-- (719, "Love, Stargirl", "Jerry Spinelli", 2007),
+-- (720, "Maniac Magee", "Jerry Spinelli", 1990),
+-- (721, "Loser", "Jerry Spinelli", 2002),
+-- (722, "Shiloh", "Phyllis Reynolds Naylor", 1991),
+-- (723, "Saving Shiloh", "Phyllis Reynolds Naylor", 1997),
+-- (724, "Shiloh Season", "Phyllis Reynolds Naylor", 1996),
+-- (725, "Sarah, Plain and Tall", "Patricia MacLachlan", 1985),
+-- (726, "Skylark", "Patricia MacLachlan", 1994),
+-- (727, "More Perfect Than the Moon", "Patricia MacLachlan", 2004),
+-- (728, "Arthur’s Nose", "Marc Brown", 1976),
+-- (729, "Arthur’s New Puppy", "Marc Brown", 1993),
+-- (730, "Arthur’s Tooth", "Marc Brown", 1985),
+-- (731, "Diary of a Wimpy Kid", "Jeff Kinney", 2007),
+-- (732, "Rodrick Rules", "Jeff Kinney", 2008),
+-- (733, "The Last Straw", "Jeff Kinney", 2009),
+-- (734, "Dog Days", "Jeff Kinney", 2009),
+-- (735, "The Ugly Truth", "Jeff Kinney", 2010),
+-- (736, "Cabin Fever", "Jeff Kinney", 2011),
+-- (737, "The Third Wheel", "Jeff Kinney", 2012),
+-- (738, "Hard Luck", "Jeff Kinney", 2013),
+-- (739, "Old School", "Jeff Kinney", 2015),
+-- (740, "The Getaway", "Jeff Kinney", 2017),
+-- (741, "The Long Haul", "Jeff Kinney", 2014),
+-- (742, "Smile", "Raina Telgemeier", 2010),
+-- (743, "Sisters", "Raina Telgemeier", 2014),
+-- (744, "Drama", "Raina Telgemeier", 2012),
+-- (745, "Guts", "Raina Telgemeier", 2019),
+-- (746, "El Deafo", "Cece Bell", 2014),
+-- (747, "Ghosts", "Raina Telgemeier", 2016),
+-- (748, "Awkward", "Svetlana Chmakova", 2015),
+-- (749, "Brave", "Svetlana Chmakova", 2017),
+-- (750, "Crush", "Svetlana Chmakova", 2018),
+-- (751, "Amulet: The Stonekeeper", "Kazu Kibuishi", 2008),
+-- (752, "Amulet: The Stonekeeper’s Curse", "Kazu Kibuishi", 2009),
+-- (753, "Amulet: The Cloud Searchers", "Kazu Kibuishi", 2010),
+-- (754, "Amulet: The Last Council", "Kazu Kibuishi", 2011),
+-- (755, "Amulet: Prince of the Elves", "Kazu Kibuishi", 2012),
+-- (756, "Amulet: Escape from Lucien", "Kazu Kibuishi", 2014),
+-- (757, "Amulet: Supernova", "Kazu Kibuishi", 2018),
+-- (758, "I Survived the Sinking of the Titanic", "Lauren Tarshis", 2010),
+-- (759, "I Survived the Shark Attacks of 1916", "Lauren Tarshis", 2010),
+-- (760, "I Survived Hurricane Katrina, 2005", "Lauren Tarshis", 2011),
+-- (761, "I Survived the Bombing of Pearl Harbor", "Lauren Tarshis", 2011),
+-- (762, "I Survived the Attacks of September 11, 2001", "Lauren Tarshis", 2012),
+-- (763, "I Survived the Battle of Gettysburg, 1863", "Lauren Tarshis", 2013),
+-- (764, "I Survived the Nazi Invasion, 1944", "Lauren Tarshis", 2014),
+-- (765, "I Survived the Great Chicago Fire, 1871", "Lauren Tarshis", 2015),
+-- (766, "I Survived the Eruption of Mount St. Helens, 1980", "Lauren Tarshis", 2016),
+-- (767, "I Survived the American Revolution, 1776", "Lauren Tarshis", 2017),
+-- (768, "The Babysitters Club #1: Kristy’s Great Idea", "Ann M. Martin", 1986),
+-- (769, "Claudia and the Phantom Phone Calls", "Ann M. Martin", 1986),
+-- (770, "The Truth About Stacey", "Ann M. Martin", 1986),
+-- (771, "Mary Anne Saves the Day", "Ann M. Martin", 1986),
+-- (772, "Logan Likes Mary Anne!", "Ann M. Martin", 1985),
+-- (773, "Ballet Shoes", "Noel Streatfeild", 1936),
+-- (774, "Skating Shoes", "Noel Streatfeild", 1951),
+-- (775, "Circus Shoes", "Noel Streatfeild", 1938),
+-- (776, "The Little House in the Big Woods", "Laura Ingalls Wilder", 1932),
+-- (777, "Farmer Boy", "Laura Ingalls Wilder", 1933),
+-- (778, "Little House on the Prairie", "Laura Ingalls Wilder", 1935),
+-- (779, "On the Banks of Plum Creek", "Laura Ingalls Wilder", 1937),
+-- (780, "By the Shores of Silver Lake", "Laura Ingalls Wilder", 1939),
+-- (781, "The Long Winter", "Laura Ingalls Wilder", 1940),
+-- (782, "Little Town on the Prairie", "Laura Ingalls Wilder", 1941),
+-- (783, "These Happy Golden Years", "Laura Ingalls Wilder", 1943),
+-- (784, "Charlotte Doyle", "Avi", 1990),
+-- (785, "The True Confessions of Charlotte Doyle", "Avi", 1990),
+-- (786, "Crispin: The Cross of Lead", "Avi", 2002),
+-- (787, "Crispin: At the Edge of the World", "Avi", 2006),
+-- (788, "Crispin: The End of Time", "Avi", 2010),
+-- (789, "The City of Ember", "Jeanne DuPrau", 2003),
+-- (790, "The People of Sparks", "Jeanne DuPrau", 2004),
+-- (791, "The Prophet of Yonwood", "Jeanne DuPrau", 2006),
+-- (792, "The Diamond of Darkhold", "Jeanne DuPrau", 2008),
+-- (793, "Hoot", "Carl Hiaasen", 2002),
+-- (794, "Flush", "Carl Hiaasen", 2005),
+-- (795, "Scat", "Carl Hiaasen", 2009),
+-- (796, "Chomp", "Carl Hiaasen", 2012),
+-- (797, "The Watsons Go to Birmingham 1963", "Christopher Paul Curtis", 1995),
+-- (798, "Bud, Not Buddy", "Christopher Paul Curtis", 1999),
+-- (799, "Elijah of Buxton", "Christopher Paul Curtis", 2007),
+-- (800, "The Mouse and the Motorcycle", "Beverly Cleary", 1965),
+-- (801, "Runaway Ralph", "Beverly Cleary", 1970),
+-- (802, "Ralph S. Mouse", "Beverly Cleary", 1982),
+-- (803, "Dear Mr. Henshaw", "Beverly Cleary", 1983),
+-- (804, "Henry Huggins", "Beverly Cleary", 1950),
+-- (805, "Ramona the Pest", "Beverly Cleary", 1968),
+-- (806, "Ramona and Her Father", "Beverly Cleary", 1977),
+-- (807, "Ramona Forever", "Beverly Cleary", 1984),
+-- (808, "The Chocolate Touch", "Patrick Skene Catling", 1952),
+-- (809, "Mr. Popper’s Penguins", "Richard Atwater", 1938),
+-- (810, "Frindle", "Andrew Clements", 1996),
+-- (811, "The School Story", "Andrew Clements", 2001),
+-- (812, "No Talking", "Andrew Clements", 2007),
+-- (813, "The Report Card", "Andrew Clements", 2004),
+-- (814, "Walk Two Moons", "Sharon Creech", 1994),
+-- (815, "The Wanderer", "Sharon Creech", 2000),
+-- (816, "Ruby Holler", "Sharon Creech", 2002),
+-- (817, "Saving Winslow", "Sharon Creech", 2018),
+-- (818, "The View from Saturday", "E.L. Konigsburg", 1996),
+-- (819, "From the Mixed-up Files of Mrs. Basil E. Frankweiler", "E.L. Konigsburg", 1967),
+-- (820, "Jennifer, Hecate, Macbeth, William McKinley, and Me", "E.L. Konigsburg", 1967),
+-- (821, "Harriet the Spy", "Louise Fitzhugh", 1964),
+-- (822, "The Swiss Family Robinson", "Johann David Wyss", 1812),
+-- (823, "Inkheart", "Cornelia Funke", 2003),
+-- (824, "Inkspell", "Cornelia Funke", 2005),
+-- (825, "Inkdeath", "Cornelia Funke", 2007),
+-- (826, "Dragon Rider", "Cornelia Funke", 1997),
+-- (827, "The Thief Lord", "Cornelia Funke", 2000),
+-- (828, "The Adventures of Pinocchio", "Carlo Collodi", 1883),
+-- (829, "Bambi", "Felix Salten", 1923),
+-- (830, "The Story of Doctor Dolittle", "Hugh Lofting", 1920),
+-- (831, "Paddle-to-the-Sea", "Holling C. Holling", 1941),
+-- (832, "The Green Glass Sea", "Ellen Klages", 2006),
+-- (833, "Song for a Whale", "Lynne Kelly", 2019),
+-- (834, "Wolf Hollow", "Lauren Wolk", 2016),
+-- (835, "Beyond the Bright Sea", "Lauren Wolk", 2017),
+-- (836, "Echo", "Pam Muñoz Ryan", 2015),
+-- (837, "Esperanza Rising", "Pam Muñoz Ryan", 2000),
+-- (838, "Becoming Naomi León", "Pam Muñoz Ryan", 2004),
+-- (839, "The Penderwicks", "Jeanne Birdsall", 2005),
+-- (840, "The Penderwicks on Gardam Street", "Jeanne Birdsall", 2008),
+-- (841, "The Penderwicks at Point Mouette", "Jeanne Birdsall", 2011),
+-- (842, "The Penderwicks in Spring", "Jeanne Birdsall", 2015),
+-- (843, "The Penderwicks at Last", "Jeanne Birdsall", 2018),
+-- (844, "The Lion, the Witch and the Wardrobe", "C.S. Lewis", 1950),
+-- (845, "Prince Caspian", "C.S. Lewis", 1951),
+-- (846, "The Voyage of the Dawn Treader", "C.S. Lewis", 1952),
+-- (847, "The Silver Chair", "C.S. Lewis", 1953),
+-- (848, "The Horse and His Boy", "C.S. Lewis", 1954),
+-- (849, "The Last Battle", "C.S. Lewis", 1956),
+-- (850, "The Magician’s Nephew", "C.S. Lewis", 1955);
+-- (851, "The Chalk Box Kid", "Clyde Robert Bulla", 1987),
+-- (852, "The Sword in the Stone", "T.H. White", 1938),
+-- (853, "The Once and Future King", "T.H. White", 1958),
+-- (854, "The Pushcart War", "Jean Merrill", 1964),
+-- (855, "The Cricket in Times Square", "George Selden", 1960),
+-- (856, "The Hotel Cat", "Esther Averill", 1969),
+-- (857, "Ronia, the Robber’s Daughter", "Astrid Lindgren", 1981),
+-- (858, "The Girl Who Drank the Moon", "Kelly Barnhill", 2016),
+-- (859, "The Night Gardener", "Jonathan Auxier", 2014),
+-- (860, "Sweep: The Story of a Girl and Her Monster", "Jonathan Auxier", 2018),
+-- (861, "The Skull", "Jon Klassen", 2023),
+-- (862, "The Murderer's Ape", "Jakob Wegelius", 2017),
+-- (863, "The Voyage of the Frog", "Gary Paulsen", 1989),
+-- (864, "The Monument", "Gary Paulsen", 1991),
+-- (865, "The White Mountains", "John Christopher", 1967),
+-- (866, "The City of Gold and Lead", "John Christopher", 1967),
+-- (867, "The Pool of Fire", "John Christopher", 1968),
+-- (868, "The Enormous Egg", "Oliver Butterworth", 1956),
+-- (869, "The Wheel on the School", "Meindert DeJong", 1954),
+-- (870, "The Twenty-One Balloons", "William Pène du Bois", 1947),
+-- (871, "The Door in the Wall", "Marguerite de Angeli", 1949),
+-- (872, "The Wolves of Willoughby Chase", "Joan Aiken", 1962),
+-- (873, "Black Hearts in Battersea", "Joan Aiken", 1964),
+-- (874, "Nightbirds on Nantucket", "Joan Aiken", 1966),
+-- (875, "The Good Master", "Kate Seredy", 1935),
+-- (876, "The Singing Tree", "Kate Seredy", 1939),
+-- (877, "The Moffats", "Eleanor Estes", 1941),
+-- (878, "Ginger Pye", "Eleanor Estes", 1951),
+-- (879, "Pinky Pye", "Eleanor Estes", 1958),
+-- (880, "The Witch of Blackbird Pond", "Elizabeth George Speare", 1958),
+-- (881, "The Bronze Bow", "Elizabeth George Speare", 1961),
+-- (882, "My Side of the Mountain", "Jean Craighead George", 1959),
+-- (883, "On the Far Side of the Mountain", "Jean Craighead George", 1990),
+-- (884, "Frightful's Mountain", "Jean Craighead George", 1999),
+-- (885, "The Phantom Tollbooth", "Norton Juster", 1961),
+-- (886, "The Friendship", "Mildred D. Taylor", 1987),
+-- (887, "Roll of Thunder, Hear My Cry", "Mildred D. Taylor", 1976),
+-- (888, "Let the Circle Be Unbroken", "Mildred D. Taylor", 1981),
+-- (889, "The Hundred Dresses", "Eleanor Estes", 1944),
+-- (890, "The Witch Family", "Eleanor Estes", 1960),
+-- (891, "The Trumpet of the Swan", "E.B. White", 1970),
+-- (892, "Homer Price", "Robert McCloskey", 1943),
+-- (893, "Centerburg Tales", "Robert McCloskey", 1951),
+-- (894, "The Mouse and the Motorcycle", "Beverly Cleary", 1965),
+-- (895, "Runaway Ralph", "Beverly Cleary", 1970),
+-- (896, "Ralph S. Mouse", "Beverly Cleary", 1982),
+-- (897, "A Wrinkle in Time", "Madeleine L’Engle", 1962),
+-- (898, "A Wind in the Door", "Madeleine L’Engle", 1973),
+-- (899, "A Swiftly Tilting Planet", "Madeleine L’Engle", 1978),
+-- (900, "Many Waters", "Madeleine L’Engle", 1986),
+-- (901, "An Acceptable Time", "Madeleine L’Engle", 1989),
+-- (902, "The Magician’s Elephant", "Kate DiCamillo", 2009),
+-- (903, "The Tiger Rising", "Kate DiCamillo", 2001),
+-- (904, "Keeper of the Lost Cities", "Shannon Messenger", 2012),
+-- (905, "Exile", "Shannon Messenger", 2013),
+-- (906, "Everblaze", "Shannon Messenger", 2014),
+-- (907, "Neverseen", "Shannon Messenger", 2015),
+-- (908, "Lodestar", "Shannon Messenger", 2016),
+-- (909, "Nightfall", "Shannon Messenger", 2017),
+-- (910, "Flashback", "Shannon Messenger", 2018),
+-- (911, "Legacy", "Shannon Messenger", 2019),
+-- (912, "Stellarlune", "Shannon Messenger", 2022),
+-- (913, "The Strange Case of Origami Yoda", "Tom Angleberger", 2010),
+-- (914, "Darth Paper Strikes Back", "Tom Angleberger", 2011),
+-- (915, "The Secret of the Fortune Wookiee", "Tom Angleberger", 2012),
+-- (916, "The Surprise Attack of Jabba the Puppett", "Tom Angleberger", 2013),
+-- (917, "The Return of the Jedi Knight", "Tom Angleberger", 2015),
+-- (918, "Frindle", "Andrew Clements", 1996),
+-- (919, "The Report Card", "Andrew Clements", 2004),
+-- (920, "Lunch Money", "Andrew Clements", 2005),
+-- (921, "No Talking", "Andrew Clements", 2007),
+-- (922, "Lost and Found", "Andrew Clements", 2008),
+-- (923, "Troublemaker", "Andrew Clements", 2011),
+-- (924, "The Red Pyramid", "Rick Riordan", 2010),
+-- (925, "The Throne of Fire", "Rick Riordan", 2011),
+-- (926, "The Serpent’s Shadow", "Rick Riordan", 2012),
+-- (927, "The Wishing Spell", "Chris Colfer", 2012),
+-- (928, "The Enchantress Returns", "Chris Colfer", 2013),
+-- (929, "A Grimm Warning", "Chris Colfer", 2014),
+-- (930, "Beyond the Kingdoms", "Chris Colfer", 2015),
+-- (931, "An Author's Odyssey", "Chris Colfer", 2016),
+-- (932, "Worlds Collide", "Chris Colfer", 2017),
+-- (933, "The Redwall", "Brian Jacques", 1986),
+-- (934, "Mossflower", "Brian Jacques", 1988),
+-- (935, "Mattimeo", "Brian Jacques", 1989),
+-- (936, "Mariel of Redwall", "Brian Jacques", 1991),
+-- (937, "Salamandastron", "Brian Jacques", 1992),
+-- (938, "Martin the Warrior", "Brian Jacques", 1993),
+-- (939, "The Outcast of Redwall", "Brian Jacques", 1995),
+-- (940, "The Pearls of Lutra", "Brian Jacques", 1996),
+-- (941, "Lord Brocktree", "Brian Jacques", 2000),
+-- (942, "Taggerung", "Brian Jacques", 2001),
+-- (943, "Triss", "Brian Jacques", 2002),
+-- (944, "Loamhedge", "Brian Jacques", 2003),
+-- (945, "Doomwyte", "Brian Jacques", 2008),
+-- (946, "The Tale of Peter Rabbit", "Beatrix Potter", 1902),
+-- (947, "The Tailor of Gloucester", "Beatrix Potter", 1903),
+-- (948, "The Tale of Squirrel Nutkin", "Beatrix Potter", 1903),
+-- (949, "The Tale of Benjamin Bunny", "Beatrix Potter", 1904),
+-- (950, "The Tale of Two Bad Mice", "Beatrix Potter", 1904),
+-- (951, "The Tale of Mrs. Tiggy-Winkle", "Beatrix Potter", 1905),
+-- (952, "The Tale of Mr. Jeremy Fisher", "Beatrix Potter", 1906),
+-- (953, "The Tale of Tom Kitten", "Beatrix Potter", 1907),
+-- (954, "The Tale of Jemima Puddle-Duck", "Beatrix Potter", 1908),
+-- (955, "The Tale of Ginger and Pickles", "Beatrix Potter", 1909),
+-- (956, "The Tale of Mrs. Tittlemouse", "Beatrix Potter", 1910),
+-- (957, "The Tale of Timmy Tiptoes", "Beatrix Potter", 1911),
+-- (958, "The Tale of Mr. Tod", "Beatrix Potter", 1912),
+-- (959, "The Tale of Pigling Bland", "Beatrix Potter", 1913),
+-- (960, "The Tale of Johnny Town-Mouse", "Beatrix Potter", 1918),
+-- (961, "The Penderwicks", "Jeanne Birdsall", 2005),
+-- (962, "The Penderwicks on Gardam Street", "Jeanne Birdsall", 2008),
+-- (963, "The Penderwicks at Point Mouette", "Jeanne Birdsall", 2011),
+-- (964, "The Penderwicks in Spring", "Jeanne Birdsall", 2015),
+-- (965, "The Penderwicks at Last", "Jeanne Birdsall", 2018),
+-- (966, "The Wild Robot", "Peter Brown", 2016),
+-- (967, "The Wild Robot Escapes", "Peter Brown", 2018),
+-- (968, "The Very Hungry Caterpillar", "Eric Carle", 1969),
+-- (969, "Brown Bear, Brown Bear, What Do You See?", "Bill Martin Jr. and Eric Carle", 1967),
+-- (970, "The BFG", "Roald Dahl", 1982),
+-- (971, "James and the Giant Peach", "Roald Dahl", 1961),
+-- (972, "The Witches", "Roald Dahl", 1983),
+-- (973, "Danny the Champion of the World", "Roald Dahl", 1975),
+-- (974, "Fantastic Mr. Fox", "Roald Dahl", 1970),
+-- (975, "The Twits", "Roald Dahl", 1980),
+-- (976, "The Lion, the Witch and the Wardrobe", "C.S. Lewis", 1950),
+-- (977, "The Horse and His Boy", "C.S. Lewis", 1954),
+-- (978, "Prince Caspian", "C.S. Lewis", 1951),
+-- (979, "The Voyage of the Dawn Treader", "C.S. Lewis", 1952),
+-- (980, "The Silver Chair", "C.S. Lewis", 1953),
+-- (981, "The Magician’s Nephew", "C.S. Lewis", 1955),
+-- (982, "The Last Battle", "C.S. Lewis", 1956),
+-- (983, "Mr. Popper’s Penguins", "Richard and Florence Atwater", 1938),
+-- (984, "The Borrowers", "Mary Norton", 1952),
+-- (985, "The Borrowers Afield", "Mary Norton", 1955),
+-- (986, "The Borrowers Afloat", "Mary Norton", 1959),
+-- (987, "The Borrowers Aloft", "Mary Norton", 1961),
+-- (988, "The Borrowers Avenged", "Mary Norton", 1982),
+-- (989, "Harriet the Spy", "Louise Fitzhugh", 1964),
+-- (990, "From the Mixed-Up Files of Mrs. Basil E. Frankweiler", "E.L. Konigsburg", 1967),
+-- (991, "The View from Saturday", "E.L. Konigsburg", 1996),
+-- (992, "The Egypt Game", "Zilpha Keatley Snyder", 1967),
+-- (993, "The Headless Cupid", "Zilpha Keatley Snyder", 1971),
+-- (994, "The Witches of Worm", "Zilpha Keatley Snyder", 1972),
+-- (995, "The Hobbit", "J.R.R. Tolkien", 1937),
+-- (996, "The Fellowship of the Ring", "J.R.R. Tolkien", 1954),
+-- (997, "The Two Towers", "J.R.R. Tolkien", 1954),
+-- (998, "The Return of the King", "J.R.R. Tolkien", 1955),
+-- (999, "The Silmarillion", "J.R.R. Tolkien", 1977),
+-- (1000, "Unfinished Tales", "J.R.R. Tolkien", 1980);

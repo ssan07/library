@@ -17,7 +17,7 @@ db.getConnection((err, connection) => {
     console.error("Database connection failed:", err);
   } else {
     console.log("Database connected successfully");
-    connection.release(); // important
+    connection.release();
   }
 });
 

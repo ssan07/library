@@ -11,9 +11,9 @@ export const getBooks = async (req, res) => {
     }
 };
 export const createBook = async (req, res) => {
-    const {title ,author ,year}= req.body; 
+    const {title ,author,genre ,year}= req.body; 
     try{
-        await db.query("INSERT INTO books (title,author,year) VALUES (?,?,?)",[title,author,year]);
+        await db.query("INSERT INTO books (title,author,genre,year) VALUES (?,?,?,?)",[title,author,genre,year]);
         res.status(201).json({ message:"Book added!"});
     }catch(err){
         res.status(500).json({message:err.message});
@@ -22,9 +22,9 @@ export const createBook = async (req, res) => {
 };
 export const updateBook = async (req, res) => {
     const {id} = req.params;
-    const {title ,author ,year}= req.body; 
+    const {title ,author,genre ,year}= req.body; 
     try{
-        await db.query("UPDATE books SET title=?,author=?,year=? WHERE id=?",[title,author,year,id]);
+        await db.query("UPDATE books SET title=?,author=?,genre=?,year=? WHERE id=?",[title,author,genre,year,id]);
         res.json("Book updated!");
     }catch(err){
         res.status(500).json({message:err.message});

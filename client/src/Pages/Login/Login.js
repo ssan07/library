@@ -18,9 +18,15 @@ export default function LoginPage() {
         username: user,
         password: password,
       });
+      localStorage.setItem("token", response.data.token);
+      localStorage.setItem("permission", response.data.permission);
       setMessage(response.data?.message ?? "Login successful");
       setTimeout(() => {
+          if(response.data.permission === "admin"){
+        navigate("/admin/library");
+          } else {
         navigate("/library");
+          }
       }, 1000);
 
       console.log(response.data);
